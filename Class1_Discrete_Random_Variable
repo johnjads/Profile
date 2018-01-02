@@ -1,3 +1,5 @@
+__author__ = 'Johnson'
+
 Prior Installation Requirements: Python 3x
 
 Let us create a class for Discrete Random Variable:
