@@ -1,3 +1,5 @@
+__author__ = 'Johnson'
+
 # First part of the nltk is an example to create a Machine Learning Model on the infamous dataset spam on the popular ensemble technique
 # dataset: https://archive.ics.uci.edu/ml/datasets/Spambase
 #this is supervised learning - classification problem set of classifying as spam or not spam
