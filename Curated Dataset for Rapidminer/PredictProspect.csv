@@ -1,0 +1,826 @@
+guid,tenure,age,city,country,browser,traffic_source,repeat_visitor,sale,sale_value
+36f99d4d-60a3-4f00-a599-30b72dd1e6ad,155,24,Fagatogo,American Samoa,Chrome,Google,1,0,0
+b5b20faa-6eb3-42f2-94ab-d4717c54b986,406,,Añatuya,Argentina,Chrome,Google,0,0,0
+bac2c18f-e0be-42f5-a7f1-92ac57a508ef,476,,Allen,Argentina,Chrome,Google,1,0,0
+a00dcf0c-6ba3-48a4-954c-fe6f38cbd858,32,,Bahía Blanca,Argentina,Chrome,Google,1,0,0
+146ee0b3-2bb2-40ac-839b-9524beea9742,473,,Isla Verde,Argentina,Chrome,Google,1,0,0
+1b4a8b79-1ed5-4e69-9c47-81c025167499,352,,Cutral-Có,Argentina,Chrome,Google,0,0,0
+23357e0e-c898-4751-b771-ba4006189a68,251,,Tres Isletas,Argentina,Chrome,Google,1,0,0
+17a1f12c-06ed-4d86-8125-d5258dfccd42,190,,Plottier,Argentina,Firefox,Google,0,0,0
+fbf65a80-5cc7-44d8-b6d9-356d66acb78a,432,,Deán Funes,Argentina,Firefox,Google,0,0,0
+df7875a4-93db-47b9-9669-27a33717be91,11,,Oberá,Argentina,Firefox,Google,0,0,0
+114fee62-3961-4fc0-8d1e-936eefdeacd9,58,,Buenos Aires,Argentina,Firefox,Google,0,0,0
+847838a1-f45a-4fef-926f-6da71253f971,508,,Piquillín,Argentina,Firefox,Google,1,0,0
+c98ec09a-b286-40af-9f47-04937b2620dd,31,,Alejo Ledesma,Argentina,Firefox,Google,1,0,0
+bde4b048-7bd0-46a4-a719-c1bab58f0d56,261,54,Pemzashen,Armenia,Chrome,Google,1,0,0
+e382abb3-21c3-425b-bb4f-08540769253d,99,44,Ddmashen,Armenia,Chrome,Google,1,0,0
+d9d775a4-f367-46ca-a609-7f5ed9a168c6,414,19,Ushi,Armenia,Chrome,Google,1,0,0
+21052b0c-19ec-4937-a4ed-86f5d38ea8bc,460,20,Kotayk’,Armenia,Firefox,Google,0,0,0
+e484b5fd-9a38-4696-9c38-389a9ed9dda5,101,45,Vanadzor,Armenia,Firefox,Google,0,0,0
+93260aac-4b0e-423c-97a0-e4fcc57f74c8,196,33,Gogaran,Armenia,Firefox,Google,0,0,0
+322d02f3-605b-4aa2-ad56-70e7ba074a7c,69,28,Patiya,Bangladesh,Firefox,Google,0,0,0
+f2663014-3eb9-4ca0-bf45-7402c1a3d0ba,470,45,Dhaka,Bangladesh,Chrome,Google,1,0,0
+c7f2a1c6-cc5a-4a06-b88d-f9ea9270941c,319,36,Patiya,Bangladesh,Chrome,Google,1,0,0
+ecdef9ff-eaa4-4bd5-9fed-6bd88091b2da,492,28,Uttar Char Fasson,Bangladesh,Chrome,Google,1,0,0
+6180678e-3124-49e7-b5ea-f6e7cf0f3d2c,103,25,Kalodzishchy,Belarus,Chrome,Google,1,0,0
+c2084c2d-97ed-4607-b376-52da33c2554c,120,26,Ivanava,Belarus,Chrome,Google,0,0,0
+128d76e6-24b2-4c1a-b705-6f9c267fe4b6,504,25,Khalopyenichy,Belarus,Chrome,Google,0,0,0
+a7f28f15-2e40-4b73-b127-f4ad27cb161c,447,28,Khotsimsk,Belarus,Chrome,Google,0,0,0
+8731ac45-fe67-49cc-b0a5-168105c331e4,248,54,Savé,Benin,Chrome,Google,1,0,0
+7923a546-9301-4ef8-919d-a8afc137a3cf,282,22,Aplahoué,Benin,Chrome,Google,0,0,0
+ddec98f8-7aa3-4fe3-b108-275a94547be9,518,39,Gasa,Bhutan,Chrome,Google,0,0,0
+8b9af480-70a3-4622-8b37-a7ec103c2fcd,545,48,La Bélgica,Bolivia,Chrome,Google,0,0,0
+2bb80f46-78c5-4062-b84b-b16c9db8543b,117,40,San Carlos,Bolivia,Chrome,Google,1,0,0
+6fbf54ce-9f83-4ffb-90e6-5fa4547dce90,260,40,San Pedro,Bolivia,Chrome,Google,0,0,0
+b90b700e-5e5f-4265-a822-320a593beeeb,124,52,Teslić,Bosnia and Herzegovina,Chrome,Google,1,0,0
+32b809c4-491f-4d67-b3b0-18440f6b2fd4,465,26,Radišići,Bosnia and Herzegovina,Chrome,Google,1,0,0
+774ca715-294b-4316-9850-bc973e1d41c5,239,30,Janeng,Botswana,InternetExplorer,Google,1,0,0
+d8c09d4d-1ff7-4550-8caa-c583fd7c9afa,506,,Manoel Urbano,Brazil,Chrome,Google,1,0,0
+14001797-4b5f-480c-a8c0-354ce1e3c6dc,203,,Nazaré da Mata,Brazil,Chrome,Google,0,0,0
+2d48de6e-f345-4128-9d1c-006bbbe25f29,303,,Vitória,Brazil,Chrome,Google,1,0,0
+9f0933f9-cc7c-401b-bfd6-2c60068f8797,330,,Tatuí,Brazil,Chrome,Google,0,0,0
+f90c3571-b283-4051-970d-c72a5a349ed5,24,,Itapemirim,Brazil,Chrome,Google,1,0,0
+934bdf57-edab-4d14-9fb3-f5b517c3f89b,266,,Mogi das Cruzes,Brazil,Chrome,Google,0,0,0
+712247ae-03b2-4cd4-a2f2-f7617b082a09,195,,Jandaia do Sul,Brazil,Chrome,Google,0,0,0
+d364d8f1-ef46-42a9-b498-343318c6cd06,398,,Barão de Cocais,Brazil,Chrome,Google,0,0,0
+c14b1a8f-fa75-4104-a30b-7a17774cdaef,446,,Piracicaba,Brazil,Chrome,Google,0,0,0
+17d95e55-d62c-4a81-991d-73e5ebee81f6,56,,Governador Valadares,Brazil,Chrome,Google,1,0,0
+50c8b9cf-7ad1-49c4-89a9-ede8a4fbf868,259,,Santaluz,Brazil,Chrome,Google,1,0,0
+31d737f8-1c29-4eeb-aa79-29b599febf3b,452,,Cambuí,Brazil,Chrome,Google,1,0,0
+a29e918a-b85f-4eac-9abd-35346e4641c7,447,,Osasco,Brazil,Firefox,Google,0,0,0
+89e1211f-fe63-49dd-810f-59236624b5a7,99,,Alegrete,Brazil,Firefox,Google,1,0,0
+ab447eb2-a86b-45c3-8c36-91d1be1a106d,38,,Florianópolis,Brazil,Firefox,Google,1,0,0
+3b34a4f8-2e22-4f80-a898-b76be3beb957,322,35,Razgrad,Bulgaria,Firefox,Google,1,0,0
+54a2fe38-a5db-4bac-b354-c3bcee4f2b86,253,19,Macamic,Canada,Chrome,Google,0,0,0
+1566c809-3b39-4938-b13c-72b00a33dd97,395,29,Devon,Canada,Chrome,Google,1,0,0
+3ba8f7c2-e888-4805-b32e-32d6073be4d5,344,23,Saint-Sauveur,Canada,Chrome,Google,0,0,0
+2c1d9cea-d607-40ee-af27-96352fbfd697,310,21,Saguenay,Canada,Chrome,Google,0,0,0
+f89931b5-c441-4d2e-9c8e-28597c4d070d,177,27,Charlottetown,Canada,Chrome,Google,0,0,0
+2e1530a1-b4d6-40b5-bd74-2800f7acd0c6,531,44,North Vancouver,Canada,Chrome,Google,0,0,0
+91a162de-a6f2-4928-8362-e3c87a3cb60a,403,55,Niverville,Canada,Chrome,Google,1,0,0
+98d81945-5bc0-4df8-9d4f-6e61a775136e,316,23,Parrsboro,Canada,Chrome,Google,1,0,0
+1949e052-a7f5-4a3e-95f6-4247c4c40bdb,368,27,Mississauga,Canada,Chrome,Google,0,0,0
+8521a882-0698-4ea9-be32-6de7b656ba2b,182,45,Innisfil,Canada,Chrome,Google,1,0,0
+acfc469d-42e7-42ab-8c80-35fa69b1cb50,179,44,Chile Chico,Chile,InternetExplorer,Google,0,0,0
+b646defd-d7cf-45c3-80fe-b513c2f1978d,267,40,Samdo,China,InternetExplorer,Google,0,0,0
+43b6e377-d8b8-427e-b7cf-aa286e562ab6,401,,Dangchang Chengguanzhen,China,InternetExplorer,Google,1,0,0
+64e48dd0-c096-49cd-8e56-df920e1d3826,227,,Zhenziliang,China,InternetExplorer,Google,1,0,0
+4c3a4058-afd7-465a-b154-3779ed72ce70,183,,Maji,China,InternetExplorer,Google,1,0,0
+6dba8478-a058-490a-874c-54c4b3f6d9ab,43,,Shuangshipu,China,InternetExplorer,Google,1,0,0
+5a5127a6-bb43-45a4-b85f-93f7d6a60976,389,,Huangli,China,Qihoo,Google,0,0,0
+2829983b-9c9e-4103-ae66-28e859d09525,449,,Xiayang,China,Qihoo,Google,0,0,0
+0a7c2c65-b91b-4cd8-a591-51687f25fb9a,216,,Hedong,China,Qihoo,Google,0,0,0
+0d630615-7f5f-4a21-ba46-3dd7705791dd,407,,Ganquan,China,Qihoo,Google,1,0,0
+6927fc75-4ba2-41bc-9d0f-190b3fefe260,285,,Shuitianhe,China,Qihoo,Google,0,0,0
+f368478d-cd6d-49d7-aa1b-1f9c20e0a992,267,,Haolaishan,China,Qihoo,Google,1,0,0
+1a5e733f-a4e7-473b-9553-682d3f0734a7,353,,Beijing,China,Qihoo,Google,1,0,0
+6a654626-aef9-4ac9-a4a6-5a6b8e651c8f,376,,Lanyi,China,Qihoo,Google,1,0,0
+7c7bef51-24f8-444e-a579-b92a6911dba0,494,,Huaitu,China,Qihoo,Google,0,0,0
+211e7dbc-b534-40fc-b71a-67e9c7479185,148,,Jagdaqi,China,Qihoo,Google,0,0,0
+f710ac3b-f812-4baa-a007-b6958b509ff6,167,,Beijing,China,Firefox,Google,0,0,0
+fffc0cfd-3123-48d3-a35a-279e2e3a1ed9,298,,Beijing,China,Firefox,Google,0,0,0
+b495427e-1e7b-4fa6-811c-bb6c56280b7a,32,,Xinxing,China,Firefox,Google,1,0,0
+a5df5ab3-99d7-465d-a1e4-6d52cf22bf04,139,,Xiantang,China,Firefox,Google,1,0,0
+cc4939ff-e827-4267-89fe-83dc48e3a50e,263,,Shiziqiao,China,Firefox,Google,1,0,0
+68d073ff-5838-4dac-b210-ca2e3fa4d54c,215,,Caijiagang,China,Firefox,Google,1,0,0
+0268159d-a95a-4108-9d16-7638a22c3767,262,,Baijiang,China,Firefox,Google,1,0,0
+cbc3a40a-616d-4d9e-8c79-ad9dc51116c3,415,,Donghuang,China,Firefox,Google,0,0,0
+fe347a99-34ac-4493-ab6e-16f0b9db2b09,441,,Xiushi,China,Firefox,Google,0,0,0
+ec0cfb72-eaa4-4ab9-895e-268105f5f1ae,241,,Xiacaoqiao,China,Firefox,Google,1,0,0
+65eb3116-cd21-492c-b0f9-d0abbdc25f64,60,,Jiangkou,China,Firefox,Google,0,0,0
+d544ff3d-1b26-4cdc-9c78-557afcd9cb9e,333,,Jincheng,China,Firefox,Google,1,0,0
+2521682c-cfb9-40a4-a970-3342dd3fd6c7,176,,Huolongmen,China,Firefox,Google,0,0,0
+0df2a94d-fe74-46ac-a876-808b073b4f77,278,,Jinsha,China,Firefox,Google,1,0,0
+9bb5be10-3e89-47a0-a3cb-5d2ef5b6111f,189,,Puyan,China,Firefox,Google,0,0,0
+cccde558-fbed-4c6b-8373-b171db409b2c,25,,Xinxing,China,Firefox,Google,0,0,0
+760fa91f-c48c-4427-9e7c-fc9c13aa2519,84,,Tong’an,China,Firefox,Google,0,0,0
+8384c927-41f8-4300-8290-2b4aa11ef5f6,150,,Honggang,China,Firefox,Google,1,0,0
+f8344464-9e0d-4a16-b775-6c9730882bff,22,,Shiquanhe,China,Firefox,Google,1,0,0
+c01119c6-c3d8-4b74-960b-4dd1901eb4b8,522,,Puqian,China,Firefox,Google,1,0,0
+e50d8d6a-5dcd-48e2-81bf-beb36badfe19,129,,Maji,China,Firefox,Google,0,0,0
+4c591af9-30b9-4e8e-ab07-3bd3a0c2d2f2,160,,Cairima,China,Firefox,Google,1,0,0
+6996a6f3-b45c-4165-ad70-6e36f656ace7,126,,Dayushu,China,Chrome,Google,1,0,0
+4bd06255-08cc-4c15-b67a-e45b27969ff1,428,,Duyun,China,Chrome,Google,0,0,0
+73dd6be4-8eca-4149-a60b-1d9f0177e6d5,350,,Beijing,China,Chrome,Google,1,0,0
+5e7d2f9e-10bd-4170-9939-63311de6de6b,218,,Beijing,China,Chrome,Google,1,0,0
+9630fa2d-fb3c-428f-b121-b5c7bc10d944,128,,Baiqi,China,Chrome,Google,0,0,0
+c145aa5b-cd12-4ce9-a6db-bff771753d7f,533,,Zhaobei,China,Chrome,Google,1,0,0
+23fdcc13-8243-4ca2-9a1c-6f77a0f80fff,450,,Huoche Xizhan,China,Chrome,Google,1,0,0
+93282556-c309-455a-807a-1ffa72d434e3,113,,Zhongguanyi,China,Chrome,Google,1,0,0
+cd952c9f-9cd9-4923-b53d-5655c2928bdc,225,,Lijiang,China,Chrome,Google,0,0,0
+b0cf4b23-3f8e-44f4-b838-d820e5b1044e,299,,Bianba,China,Chrome,Google,0,0,0
+964332f5-6590-49c7-a343-11cad84a3ab6,137,,Maoya,China,Chrome,Google,0,0,0
+5986903d-497c-496a-983e-aeb3ca29c9e8,375,,Lianpeng,China,Chrome,Google,1,0,0
+6e123a27-293e-4267-a785-d3a26a16ecb7,317,,Zengjia,China,Chrome,Google,0,0,0
+b5ced803-44e4-40b6-a632-80f784d677b7,459,,Gexi,China,Chrome,Google,1,0,0
+60223742-66ce-445c-b3ec-f9c7f9f1cd9a,228,,Hedong,China,Chrome,Google,1,0,0
+738d8deb-fdf1-46c9-8f4d-b70bf5ebb4c7,109,,Xiaozhen,China,Chrome,Google,0,0,0
+28a8bc60-751b-4ddb-937a-2ea277f9dc4b,437,,Xiamazhuang,China,Chrome,Google,0,0,0
+f145973f-7447-4913-96e9-764b6aabbe33,472,,Changzheng,China,Chrome,Google,1,0,0
+ac016040-4f81-4f7a-b776-f7b3be46e261,167,,Shajing,China,Chrome,Google,0,0,0
+4c018756-edc0-447d-8b2a-b36b91291889,360,,Longwan,China,Chrome,Google,1,0,0
+60396e8e-c682-4692-81cf-4e342883d605,432,,Nanxia,China,Chrome,Google,1,0,0
+36a303e7-38e0-4519-a667-505f64e9a270,65,,Honglin,China,Chrome,Google,0,0,0
+6a05d702-642a-4776-b3cb-033306dc82f6,442,,Dongtuan,China,Chrome,Google,1,0,0
+3fc0b6f9-b1be-4f3e-a39c-d3d79ccecd30,51,,Dafengdui,China,Chrome,Google,0,0,0
+4a8824b9-9b66-49ff-904c-7f4ebf096e5e,229,,Niyang,China,Chrome,Google,1,0,0
+e405df91-a157-43a0-9e98-3ac56a5d0508,273,,Shuangchahe,China,Chrome,Google,1,0,0
+12fa22e2-e506-438a-8854-a41bc2d889ec,106,,Gaomi,China,Chrome,Google,0,0,0
+33c9e5fe-f120-4f35-bb22-15346b213bcf,77,,Xian’an,China,Chrome,Google,0,0,0
+89543613-b5ed-416d-9fe9-2f3d13ac221b,421,,Dongjia,China,Chrome,Google,0,0,0
+891d7332-c856-4eaa-89d2-e28534178c63,247,,Ning’an,China,Chrome,Google,1,0,0
+3508484d-c680-4801-badb-921c24f868b0,35,,Yukuriawat,China,Chrome,Google,0,0,0
+8ab8748e-8717-4a4e-b0d0-d343f97b1415,466,,Zhugentan,China,Chrome,Google,1,0,0
+2a7a4082-1a20-4ec5-affc-be2355a7fadd,451,,Chengxi,China,Chrome,Google,1,0,0
+c4e1f345-7bad-42a9-a3e7-b59a9e619a25,105,,Zhangwan,China,Chrome,Google,1,0,0
+7cafcd89-b2de-4083-bb0d-b0b4149dc64f,48,,Banshu,China,Chrome,Google,0,0,0
+e3c2a02b-1786-4782-8618-0c8841996dcf,60,,Andou,China,Chrome,Google,0,0,0
+223456b2-bd40-4978-be58-5e6e68ecad49,413,,Rongcheng,China,Chrome,Google,0,0,0
+81cc0310-782e-41aa-8e75-f8938db1caa7,334,,Wuyang,China,Chrome,Google,0,0,0
+658c1758-a7d6-4a9b-9ff2-a02b55eb96fa,372,,Guzhen,China,Chrome,Google,0,0,0
+ef058702-2ef3-4c30-ba84-ece6fd3bab97,4,,Baihe,China,Chrome,Google,0,0,0
+b6feaab9-8f93-4639-b9a6-520367aa5b08,468,,Gujiang,China,Chrome,Google,1,0,0
+d1e201cb-3a37-4a42-9231-82526ce074a8,159,,Xiluodu,China,Chrome,Google,1,0,0
+bbc6286e-b766-45ca-adc4-93af367a2999,153,,Wuli,China,Chrome,Google,0,0,0
+377c7b13-5a82-4646-9c15-282f200e6fc7,461,,Zongluzui,China,Chrome,Google,0,0,0
+45c128cf-d9aa-4d5d-bf6c-4440990ec29b,219,,Feng’an,China,Chrome,Google,1,0,0
+3814b38f-8f2d-4861-8989-5298c89cee48,126,,Huanan,China,Chrome,Google,1,0,0
+095ed149-bce5-4b26-893c-e40d69a9b01e,64,,Duishan,China,Chrome,Google,0,0,0
+0343965e-2e29-4f5f-9bc2-ad0194ed203c,517,,Dongshangen,China,Chrome,Google,1,0,0
+f8118b39-aa51-4b40-a74f-ac2dcc808c03,198,,Lianhe,China,Chrome,Google,0,0,0
+74d5062c-cb23-4e37-8f9c-3397637f97a0,362,,Xiyang,China,Chrome,Google,1,0,0
+e9f6e628-69b6-4bc3-8275-ffc6156a33d4,367,,Sigaozhuang,China,Chrome,Google,0,0,0
+7a87a0c2-8b33-4398-875f-3a6d63188f0a,456,,Daqian,China,Chrome,Google,0,0,0
+400323fb-726c-4ba8-b95a-50fafef9fd8b,300,,Tucheng,China,Chrome,Google,1,0,0
+adcf4554-e902-46d6-a933-c7e722ad6cca,103,,Cikai,China,Chrome,Google,1,0,0
+ec8586ee-90cf-48dc-af1b-9a06943bd265,72,,Puqi,China,Chrome,Google,1,0,0
+208903da-9334-41e1-8dbb-dc69c3b2e883,521,,Kandun,China,Chrome,Google,0,0,0
+17a509ff-7257-4711-bd34-8d00bac94d3a,319,,Long’an Chengxiangzhen,China,Chrome,Google,0,0,0
+ce4e7833-aa8f-4201-8775-2926c9bdbb2d,123,,Wudan,China,Chrome,Google,0,0,0
+d2703a87-e2e7-4859-adc5-bf18f2f0791f,81,,Jiamiao,China,Chrome,Google,1,0,0
+7cd10c28-68bf-4238-8dc4-86b29d8c1f7e,395,,Qiling,China,Chrome,Google,1,0,0
+19fcc489-756b-455a-8bdd-02efc33c2666,369,,Longjiang,China,Chrome,Google,1,0,0
+1327c1a8-ab31-4ede-9ecf-e59d6c0228a5,498,,Youzai,China,Chrome,Google,0,0,0
+887505a9-7eff-446c-a532-5a472374828d,68,,Luzhuangzi,China,Chrome,Google,0,0,0
+ac02897e-84cb-4ce9-8c6a-5c54b904ce12,156,,Yangchun,China,Chrome,Google,1,0,0
+cd109e43-3340-448e-a7d9-850fbea649df,84,,Jiangcheng,China,Chrome,Google,0,0,0
+9dd0cec0-e75f-4947-91f6-92cfda22e547,158,,Chengxi,China,Chrome,Google,0,0,0
+b8a3b805-5964-483c-b488-03452768d031,118,,Moguqi,China,Chrome,Google,1,0,0
+47a23aa2-1eb6-4e3c-ba23-cd425ec10244,449,,Bailai,China,Chrome,Google,0,0,0
+74faf2d8-8701-47c2-a13e-990e8d1bba3d,386,,Xindian,China,Chrome,Google,1,0,0
+ec703279-1e70-4c23-b20f-ac2703af6a07,328,,Changgucheng,China,Chrome,Google,0,0,0
+75de06dd-8807-4a81-8517-ec74649e43c9,97,,Maoyang,China,Chrome,Google,0,0,0
+d07c8cb9-7fd1-4e46-acec-5cab6ace26fd,231,,Quzhou,China,Chrome,Google,1,0,0
+43105359-6463-4af6-be84-00e6ab14bb34,485,,Silihe,China,Chrome,Google,1,0,0
+38aa6724-a24d-43b9-93af-85732b958722,261,,Kangxung,China,Chrome,Google,0,0,0
+71929835-1c76-4e0e-8434-f7681168af34,120,,Jieshan,China,Chrome,Google,1,0,0
+fc2ed1b9-3966-4dc8-b46b-ec8d4b490f6b,16,,Xiangyang,China,Chrome,Google,1,0,0
+fce199ee-0657-48e4-b591-5cbbdb8f0b6e,354,,Daoxu,China,Chrome,Google,0,0,0
+d97035e4-2918-430d-9597-d68ab725de9c,25,,Nanqiao,China,Chrome,Google,1,0,0
+5368276a-53e2-41bd-8a4c-4f261b2fd4e3,331,,Jiulong,China,Chrome,Google,1,0,0
+dd6e1f15-b55f-4987-81d5-1df104da9ad1,503,,Hedao,China,Chrome,Google,0,0,0
+f102f2b4-15c9-463d-9c3b-17d61d9f5a73,341,,Pujijie,China,Chrome,Google,0,0,0
+0828d015-26b2-4815-a418-2f4e82d1c6d4,338,,Bangjun,China,Chrome,Google,1,0,0
+6abac8a8-c340-4654-860e-f9a6f219ba82,315,,Shuangyang,China,Chrome,Google,1,0,0
+b8d076f1-a9da-414f-8521-1dd010358aa4,297,,Shuiyuan,China,Chrome,Google,1,0,0
+46cea31e-6e8e-4b7e-afb3-d7434f3af610,255,,Yonghe,China,Chrome,Google,0,0,0
+4dd9d033-3303-444a-bebc-34e7b09319e2,388,,Shangbahe,China,Chrome,Google,1,0,0
+6fdf4565-3b77-46d1-a37d-63424ed0b504,497,,Taishanmiao,China,Chrome,Google,0,0,0
+d19b69da-f596-4feb-a583-d87eca8f5110,502,,Zhongwei,China,Chrome,Google,0,0,0
+a3af5b78-6200-4bc2-a13f-d58aaeb42a35,104,,Pingshi,China,Chrome,Google,1,0,0
+65e04e18-6678-431c-9ad5-eaf51baf99de,442,,Wenbi,China,Chrome,Google,0,0,0
+319cd663-c673-4168-ad6b-2a51273036c8,280,,Xiashe,China,Chrome,Google,0,0,0
+25869a8c-a931-4f95-91f0-903d41edd22b,357,,Jianlong,China,Chrome,Google,1,0,0
+f2197807-032b-4495-8d9d-f213ca7cc4d8,450,,Boshan,China,Chrome,Google,1,0,0
+d4b997d0-6ca2-49dd-ad7f-348b71d69a16,527,,Huangdu,China,Chrome,Google,1,0,0
+c753e340-9cf6-45f4-bc72-3cf5d8d88ca8,189,,Pengbu,China,Chrome,Google,0,0,0
+3355ad33-12f4-49ca-b462-9fe8715a3c42,282,,Gaotai,China,Chrome,Google,1,0,0
+fd8a9f54-8e3a-49f0-8e4d-09aac396581a,410,46,Zhonghekou,China,Chrome,Google,1,0,0
+f3a296c1-9639-4a6c-b08f-c8242b3b01fc,244,41,Sanzhang,China,Chrome,Google,1,0,0
+f76a1b98-aea9-435c-bb56-93da9ac801a8,385,46,Longquan,China,Chrome,Google,0,0,0
+45a6108f-f249-4ff4-a5c5-e2f202709ff8,329,55,Jiangxiangzhen,China,Chrome,Google,1,0,0
+d29e5ea7-c379-4e38-a497-38b9f2440827,160,41,Pengchang,China,Chrome,Google,1,0,0
+8364b25e-f239-4938-91ad-ff57c0d174d6,506,52,Hongtang,China,Chrome,Google,1,0,0
+5a6be214-d090-4b43-a0bb-b3bf11d77ba8,13,28,Baishi,China,Chrome,Google,1,0,0
+d89f0b96-5ffd-4751-aa9f-0fe4ec5b2929,93,24,Tongjing,China,Chrome,Google,1,0,0
+ebc836c9-b099-4cc5-82f0-a7352f5f155a,469,36,Tuzhai,China,Chrome,Google,1,0,0
+a95f9939-05d6-4719-b9c3-bc8a580fccf0,459,47,Anle,China,Chrome,Google,1,0,0
+007a79ae-5def-4880-9138-d6f9a775faa5,319,30,Gaoqiao,China,Chrome,Google,0,0,0
+4102d344-f7a6-4fcf-aa70-046ce0d90097,67,54,Zhongtong,China,Chrome,Google,1,0,0
+845bc992-532e-425a-b3cf-aef46a75b873,514,34,Yuanba,China,Chrome,Google,0,0,0
+5390a057-5e47-43c1-acd1-59d107be1990,470,20,Fenkeng,China,Chrome,Google,1,0,0
+3e2a3e03-3423-4c4f-b92c-af12d47c437c,312,37,Laotai,China,Chrome,Google,0,0,0
+415b4fa9-96c8-449c-8377-889829952b9e,480,27,Rendui,China,Chrome,Google,1,0,0
+dd271b5d-9e02-4866-a021-e25454815def,34,37,Shuitian,China,Chrome,Google,0,0,0
+4f86ae2d-9048-480e-8d8e-8aff75f40a6b,184,45,Laojie,China,Chrome,Google,1,0,0
+90caf9cd-7b83-40dc-ab12-5c30cf5d9f8e,156,40,Dengmingsi,China,Chrome,Google,1,0,0
+d1a4593d-613e-41b3-a6d5-0753231faf9f,310,35,Yetang,China,Chrome,Google,1,0,0
+3a92bf23-1a3e-452b-8098-947b62e0ffde,107,19,Keda,China,Chrome,Google,1,0,0
+17999723-abae-4845-a647-0aff9976e483,252,22,Qingshi,China,Chrome,Google,1,0,0
+d9d293f1-f0ec-4e57-9f57-10d461fc1f29,525,21,Baliang,China,Chrome,Google,1,0,0
+0e35e1cf-1dd7-48a7-814b-cfb2c1d0cfc9,135,31,Mulong,China,Chrome,Google,1,0,0
+5b75bcea-1254-4f16-b3eb-bee49912ac82,91,45,Yangzhou,China,Chrome,Google,1,0,0
+c3eedb0d-12bd-4d0a-b4f2-0460c97e450c,75,42,Duma,China,Chrome,Google,1,0,0
+cee4d958-22f7-4d73-aca0-d1e28f3decd4,383,31,Kobylí,Czech Republic,Chrome,Google,0,0,0
+c7fe9215-6c32-453d-a1be-2a8ae1bea9b5,476,42,Ronov nad Doubravou,Czech Republic,Chrome,Google,1,0,0
+8f45c366-bfc6-45fe-9fe1-a735b8863806,499,32,Hostomice,Czech Republic,Chrome,Google,1,0,0
+771e67eb-b22e-4bba-aa30-20e387ebca57,315,44,Bělá pod Bezdězem,Czech Republic,Chrome,Google,0,0,0
+20efdf5a-9975-471c-b3a1-e35ca221c81e,517,52,Františkovy Lázně,Czech Republic,Chrome,Google,0,0,0
+16dfde61-1a93-4ca1-bbe7-24e04b98666b,109,49,Malé Svatoňovice,Czech Republic,Chrome,Google,1,0,0
+07e3edc1-7467-4d55-9f03-4b8c53a1b4c2,334,27,Mělník,Czech Republic,Chrome,Google,0,0,0
+73a7ffd6-c880-485b-a40d-ac804a5e6d2f,151,43,Moutnice,Czech Republic,Chrome,Google,1,0,0
+54d9908a-76ba-406f-9ae7-725ad9791438,214,37,Havlíčkův Brod,Czech Republic,Chrome,Google,0,0,0
+d17b9765-4549-494f-a9b9-12d3071574e8,275,47,Libochovice,Czech Republic,Chrome,Google,1,0,0
+e73f50c5-2e79-45c0-9ea9-d314411d5352,372,22,Opařany,Czech Republic,Chrome,Google,0,0,0
+9b1bb272-733e-43e3-a37a-a2b404d44c18,3,41,Chyšky,Czech Republic,Chrome,Google,1,0,0
+dd0de724-605d-49d2-9452-7a8137907085,147,50,Horní Štěpánov,Czech Republic,Chrome,Google,0,0,0
+e6829616-9ea8-49c8-89f2-bd9e5fffac9f,502,27,Malé Svatoňovice,Czech Republic,Chrome,Google,1,0,0
+dad64183-cdfb-4899-8385-815a78a3edf6,515,37,Dolní Černilov,Czech Republic,Chrome,Google,1,0,0
+5cbb9cd3-9060-4ce1-be84-84b60258409d,173,38,Bystřice nad Pernštejnem,Czech Republic,Chrome,Google,1,0,0
+94256aa5-8037-45df-8089-361e4f3af6d7,322,45,Uničov,Czech Republic,Chrome,Google,0,0,0
+fe362713-b6cb-44e9-8403-3dd01fd2f6ee,383,35,Žebrák,Czech Republic,Firefox,Google,1,0,0
+12ef8e19-f0a7-47ba-9d4e-08d2578f2f98,389,35,Lochovice,Czech Republic,Firefox,Google,1,0,0
+a4a362f2-093f-4e84-8d12-4b85566b903b,103,51,Liběšice,Czech Republic,InternetExplorer,Google,0,0,0
+966a16e7-7309-42ab-85ee-8a906040abd3,134,50,Nadi,Fiji,InternetExplorer,Google,0,0,0
+61ebf0a0-298b-4c77-8714-82d51ff5652c,486,42,Saari,Finland,InternetExplorer,Google,0,0,0
+544a2d23-1890-4ebf-b754-9e790429f604,205,43,Rauma,Finland,InternetExplorer,Google,1,0,0
+cff79f1e-d0b8-401f-85fe-c80af2553b6e,326,28,Paltamo,Finland,InternetExplorer,Google,1,0,0
+d743baee-31c3-4907-9ec9-6921ae96e154,183,53,Cergy-Pontoise,France,Firefox,Google,1,0,0
+398a1399-824b-4e67-853d-504844ec31e9,472,54,Lille,France,Firefox,Google,0,0,0
+196558b8-f61c-443e-bd7d-b0881b513a40,100,45,Valence,France,Firefox,Google,0,0,0
+8022482b-61d4-4a5e-b455-374c7d472ba9,423,37,Aix-en-Provence,France,Firefox,Google,0,0,0
+a30f4695-194d-4b74-822e-dfe0fcf15637,201,50,Évreux,France,Firefox,Google,0,0,0
+0f4dc58f-adc8-49e3-868f-417264721492,406,22,Le Teil,France,Firefox,Google,0,0,0
+c4c9e538-80a2-443b-88a8-f7e3fed399d9,336,41,Saint-Quentin-Fallavier,France,Chrome,Google,0,0,0
+9d068cd1-c5d4-4eee-97de-81e7d715efd0,222,26,Argentan,France,Chrome,Google,1,0,0
+76bf441a-0b6e-459e-b388-c01b444c11c9,181,19,Arles,France,Chrome,Google,0,0,0
+c612eb94-8097-4239-ace1-0e9979aa9fac,523,25,Agen,France,Chrome,Google,0,0,0
+02bb0b4a-02df-415d-acbd-718064966653,143,22,Paris La Défense,France,Chrome,Google,0,0,0
+e1503073-c59a-40d7-9dbb-4ede59c55aea,300,39,Valenciennes,France,Chrome,Google,0,0,0
+9f6346f1-bfdf-44e1-a810-26596f7b1a97,367,25,Chantilly,France,Chrome,Google,0,0,0
+27d2b48d-5e1c-446d-a78a-527aa7176860,69,25,Annecy-le-Vieux,France,Chrome,Google,0,0,0
+0918b9ec-058b-4b68-b2cc-544ffa024394,394,34,Grenoble,France,Chrome,Google,1,0,0
+1250cca5-ae44-4da1-8689-4d30707d5e87,189,53,Saint-Gratien,France,Chrome,Google,1,0,0
+3e3e51aa-d6bb-474c-ac3a-ba825093ab60,3,36,Paris 02,France,Chrome,Google,0,0,0
+e69667d5-8609-4026-bbab-1c460d6ba9c3,318,55,Thouars,France,Chrome,Google,1,0,0
+25408959-0360-436a-9963-f37b02387997,366,35,Pau,France,Chrome,Google,0,0,0
+2c927fdf-0bf2-4f7c-a7d0-bf6ddf501a1d,369,37,Castelnaudary,France,Chrome,Google,1,0,0
+9c038a59-058e-49bc-879e-048eaecf1c02,508,41,Guéret,France,Chrome,Google,0,0,0
+e49cb433-4645-4af2-aaf5-4045baf42ce6,82,43,Marseille,France,Chrome,Google,0,0,0
+24c8a0b7-0772-4b93-9340-739dc4ac3fe5,352,38,Fresnes,France,Chrome,Google,1,0,0
+886acdbb-e871-44cd-a4e9-b47cb29ffb1b,95,50,Vitrolles,France,Chrome,Google,1,0,0
+feb27137-f245-4059-9c29-206d87a2df25,205,25,Bastia,France,Chrome,Google,1,0,0
+be872b0e-9cb9-45fd-a07a-dccf89793e3f,31,19,Pont-à-Mousson,France,Chrome,Google,0,0,0
+7b0dcf80-8e35-47dc-ab27-442fd96e42d7,431,40,Dijon,France,Chrome,Google,0,0,0
+8950e2ab-9d0b-423c-8016-38efd2fcc2f3,41,51,Orly aérogare,France,Chrome,Google,1,0,0
+0051bb45-417c-456b-8c82-2ab79521807d,436,42,Agios Dimitrios,Greece,Firefox,Google,0,0,0
+6b4ea839-78bb-476b-a898-948a2aa46e76,344,43,Vlycháda,Greece,Firefox,Google,0,0,0
+cd3c7987-c9a9-4b0f-b28d-ffe5dfd9c3fd,189,55,Néa Péramos,Greece,Firefox,Google,1,0,0
+34638b74-0b26-476c-ab7e-797b5ca0ecb9,372,45,Sámi,Greece,Firefox,Google,1,0,0
+04ef9f17-6db3-4662-bac4-79b22ae96d95,528,46,Palaiomonástiron,Greece,Firefox,Google,0,0,0
+55eac2c1-b687-416f-b0b3-d4ed574fd99d,470,52,Markópoulo,Greece,Firefox,Google,0,0,0
+309b54a3-1892-4ce9-872b-d71e58087631,404,55,Río,Greece,Chrome,Google,1,0,0
+365adb89-ab3b-433b-bbeb-18b6b4e4ab58,274,34,Ierápetra,Greece,Chrome,Google,1,0,0
+9aeba958-4dc9-4d76-b7b0-180561eb7538,53,40,Ampeleíes,Greece,Chrome,Google,0,0,0
+6b5bcc4e-3ecb-4ce6-85b9-41c1f4f5c10d,411,19,Kavýli,Greece,Chrome,Google,0,0,0
+329833d3-ea29-48b2-9495-e046f5706ac8,430,39,Vrachnaíika,Greece,Chrome,Google,0,0,0
+a2211519-0cd2-423c-b38e-c034984a2e2a,315,27,Tílisos,Greece,Chrome,Google,0,0,0
+bf7c5a84-3420-48d6-86da-2f7a70a1787c,232,42,Varnávas,Greece,Chrome,Google,1,0,0
+d892360e-6d08-4fde-8a3e-090bf6a460e3,16,30,Flórina,Greece,Chrome,Google,1,0,0
+e9631953-1754-46df-86f9-a51dd6f48217,461,38,Pérama,Greece,Chrome,Google,1,0,0
+ecfe13e3-430d-4226-ad13-a1d8272b37d8,417,38,Athens,Greece,InternetExplorer,Google,1,0,0
+853b95b1-6d94-4ca0-915b-453efe698956,187,35,Áyios Vasílios,Greece,InternetExplorer,Google,0,0,0
+308edca1-584a-4f84-ae1f-419e28b078c3,155,36,Eleftheroúpolis,Greece,InternetExplorer,Google,0,0,0
+2c4e129e-9dde-4a70-8a62-6bb4d93d106f,394,22,Coimbatore,India,Firefox,Bing,0,0,0
+1906a379-96dc-4f76-b20a-3f072b5ab71e,435,23,Kolkatta,India,InternetExplorer,Bing,1,0,0
+7bd1561a-1063-42ae-99a3-1c292e46a28c,275,39,Bangaluru,India,Firefox,Facebook,1,0,0
+0337a33f-ef5b-4b32-a0a6-2f335dc3619e,6,34,Bangaluru,India,Firefox,Facebook,0,0,0
+5844b7f1-5adc-4c6e-b33b-a7761a6cc1ff,252,39,Bangaluru,India,Chrome,Facebook,1,0,0
+13e8f328-6c3a-46d2-b602-aa3e2829d46b,440,38,Trivandrum,India,Firefox,Instagram,1,0,0
+73f54d61-0392-41f1-95dd-c2ef80e8a97c,176,55,Cochin,India,Chrome,Instagram,1,0,0
+88eb1f8f-f9ba-49c6-a676-d7afe9e1f5b8,356,44,New Delhi,India,InternetExplorer,Google,1,0,0
+24fdfc19-327e-40bf-a995-0ccc8f064844,306,54,New Delhi,India,Firefox,Google,1,0,0
+58e56e19-c933-4793-91b7-5774260e4b4d,336,33,New Delhi,India,Firefox,Google,1,0,0
+9717e510-8383-4edb-a90f-0db9307c4a5e,88,24,New Delhi,India,Firefox,Google,0,0,0
+e0647644-f954-471d-89bd-6172f3d710e3,266,55,New Delhi,India,Firefox,Google,0,0,0
+0da77efe-be4c-41be-8ebc-de00ffe8d470,221,40,Chennai,India,InternetExplorer,Google,1,0,0
+08efdfc7-43b6-4f92-80e6-edf9876c4058,273,30,Chennai,India,InternetExplorer,Google,0,0,0
+a992fd19-3b7f-4c47-bdad-937591d88b8f,510,47,Salem,India,InternetExplorer,Google,1,0,0
+e9e0ee56-bdfe-4770-97f5-c181782ec71d,147,22,Mumbai,India,InternetExplorer,Google,1,0,0
+0ef45a97-991e-44ab-8376-f1709c4079dc,534,48,Mumbai,India,InternetExplorer,Google,0,0,0
+229ca0ca-7cbe-408d-b857-36e35a78164f,401,30,Mumbai,India,InternetExplorer,Google,0,0,0
+ea1d81fb-a9f5-4088-a700-85f082e12a7e,279,32,Agartala,India,InternetExplorer,Google,1,0,0
+e464eb10-5096-465c-8715-882ae95d9999,284,42,Kolkatta,India,InternetExplorer,Google,1,0,0
+76326599-8fcf-4fa2-b206-f44728811204,374,38,Kolkatta,India,Firefox,Google,1,0,0
+5913e0c0-111a-4bd1-aae1-cd37ba420456,284,48,Noida,India,Firefox,Google,0,0,0
+1a0c51e7-b0ab-4a9a-b011-e87c5e216a78,247,28,Bangaluru,India,Firefox,Google,0,0,0
+c1b8fd5f-57d1-4808-b8fb-dcab963ff0fa,21,51,Bangaluru,India,Firefox,Google,0,0,0
+5b899f6c-d176-4535-81b4-99d577feff1d,142,37,Hyderabad,India,Firefox,Google,1,0,0
+10b0802a-8ffd-4ad7-aa8b-6a26647ca3f6,12,27,Vizak,India,Firefox,Google,0,0,0
+104b6f3b-2f95-4671-a0a1-b82c564fcd85,39,42,Vizak,India,Firefox,Google,0,0,0
+e22b171c-6ae4-4725-af8d-186e1055052c,343,23,Jaipur,India,Firefox,Google,1,0,0
+17d77eef-b48c-4152-abd2-c633c9df09f0,109,27,Hassan,India,Firefox,Google,1,0,0
+308a5802-42a4-448d-bdfd-35f710522472,148,33,Pune,India,Firefox,Google,0,0,0
+346e278f-b834-4d1a-85d9-9e26cffc29ec,189,41,Pune,India,Firefox,Google,1,0,0
+e1bf6e9e-dfeb-4cfd-a072-f23813a31cd9,184,32,Gandhinagar,India,Firefox,Google,0,0,0
+7fe6ea23-9bab-404b-8086-f9b330896f61,53,28,Sembakur,India,Firefox,Google,1,0,0
+6d74ad82-d18d-4a4b-983d-c77505c61e3c,168,55,Guntur,India,Firefox,Google,1,0,0
+e24d913d-f32b-4d27-9327-8d9bd07e1f4d,510,51,Gil,India,Firefox,Google,0,0,0
+97abe3eb-e27e-4f0b-9ad2-76ac388ae749,300,48,Salem,India,Firefox,Google,0,0,0
+e381601f-1094-4045-b8d8-7bbf045b03cf,262,40,Chirapunji,India,Firefox,Google,0,0,0
+be8b3efe-d3db-4f5d-8800-6d73b1b104de,487,38,Chirapunji,India,Chrome,Google,0,0,0
+5cac0261-1dc2-4ded-a438-5393d86cc5c9,489,27,Agra,India,Chrome,Google,0,0,0
+4ccd99ed-4cbf-4c6e-99a1-29c215ef1e91,257,54,Coimbatore,India,Chrome,Google,1,0,0
+65e4004c-9262-4e7b-a2d9-f79ee9850b98,118,30,Madurai,India,Chrome,Google,1,0,0
+eca9b35a-8b9b-4243-a36b-4cd4fcfaed32,46,52,Ranchi,India,Chrome,Google,1,0,0
+583290f1-1ec6-4a6c-9f80-59cd7e9d8ac6,307,43,Pune,India,Chrome,Google,0,0,0
+a4db47b0-cc71-43ef-90d3-e01e852ad6b0,393,49,Karangbalong,India,Chrome,Google,0,0,0
+cd6bcdcf-481a-4ff8-beec-9ac60728734a,469,36,Banjar Desa,India,Chrome,Google,0,0,0
+91581a5d-a9d0-4761-b0c2-46657c85b390,122,37,Kramat,India,Chrome,Google,0,0,0
+431a2bd0-8a74-4ee5-ac6e-50bfdb7979f3,311,21,Nunut,India,Chrome,Google,1,0,0
+481a2e78-e9c8-4ba1-bb9d-7c763216f38f,267,39,Perandur,India,Chrome,Google,0,0,0
+392dcffd-2661-466a-a686-09ef6f7287dc,114,26,Manipal,India,Chrome,Google,1,0,0
+e2aff576-3d38-4568-afa0-fea04fa58175,492,49,Pengandonan,India,Chrome,Google,1,0,0
+f704ca40-2c69-47d6-bbd7-290d425ad49f,410,24,New Delhi,India,Chrome,Google,0,0,0
+9ffc4ef5-c5a4-4d7e-94d5-40afe2f421bc,421,35,New Delhi,India,Chrome,Google,0,0,0
+872cdca8-b198-4e09-9597-3004475d7888,375,31,Chennai,India,Chrome,Google,1,0,0
+10acad9b-9804-49a7-b41f-f8e235d16f82,322,22,Chennai,India,Chrome,Google,1,0,0
+5b62ae2f-f28c-4e90-a74f-89edfcedaf27,385,30,Salem,India,Chrome,Google,1,0,0
+2cb79ba1-9011-42b2-bd75-448aa378e560,400,52,Mumbai,India,Chrome,Google,0,0,0
+52134a6b-24db-4543-8ad9-78a397c2dd52,234,21,Mumbai,India,Chrome,Google,1,0,0
+86a33be1-4609-4730-87d5-e24c91746f48,182,24,Mumbai,India,Chrome,Google,0,0,0
+89e073f6-5ae4-4ec8-b90e-8ce4865fe2f0,290,27,Mumbai,India,Chrome,Google,1,0,0
+3e23a173-7283-41d9-bffa-ea59dab7b2b0,459,31,Mumbai,India,Chrome,Google,0,0,0
+3853416b-444c-489b-a9fc-49e5b71c376a,307,24,Kolkatta,India,Chrome,Google,0,0,0
+3538944a-fdd6-45ed-a2c7-613d94a02f85,33,24,Kolkatta,India,Chrome,Google,1,0,0
+b7a4b086-0e0f-468b-b7a2-61a402e6705e,343,35,Kolkatta,India,Chrome,Google,1,0,0
+beeeba96-d858-40a4-b8d5-87dc96f6f710,412,54,Bangaluru,India,Chrome,Google,1,0,0
+b440d237-8952-4f17-be15-f335a9b31a7c,254,45,Bangaluru,India,Chrome,Google,0,0,0
+ab6cc620-4514-4d1c-ad40-cf1101634ea4,91,20,Bangaluru,India,Chrome,Google,0,0,0
+37f2d84b-3a64-4b27-bbcc-880ef36b5ea5,76,43,Bangaluru,India,Chrome,Google,0,0,0
+9b1c8f15-d297-42e1-ad5d-0f4116b05ac3,408,28,Bangaluru,India,Chrome,Google,1,0,0
+7f350609-c62a-4e31-8bc5-eea262b931ab,112,42,Hyderabad,India,Chrome,Google,0,0,0
+62bb010f-857f-4eff-ae79-bf712d9a51bf,71,19,Hyderabad,India,Chrome,Google,1,0,0
+11bac463-eb1c-4150-b082-4a106bc87b0e,203,40,Vizak,India,Chrome,Google,1,0,0
+7f395521-42f9-4a73-80ff-44ad9f130405,231,19,Vizak,India,Chrome,Google,1,0,0
+5008fbec-9a18-4f90-a77d-76b9b0bf970b,228,19,Bhubaneshawr,India,Chrome,Google,0,0,0
+4d2c88aa-1806-4b63-bd67-f82d7260ad8a,116,42,Cochin,India,Chrome,Google,1,0,0
+ab6e21d0-6689-4df5-8ad8-b5f5d995e0c7,266,39,Cochin,India,Chrome,Google,0,0,0
+84a3ac09-1d5c-4d11-8539-c6ba08f1b8bc,371,46,Karangnunggal,Indonesia,InternetExplorer,Google,0,0,0
+45f93490-7a84-46b6-bf61-0911cc680f95,264,33,Cimara,Indonesia,InternetExplorer,Google,0,0,0
+021d9525-38bd-45f4-91c1-0346ae30a1ff,119,44,Muara Sabak,Indonesia,InternetExplorer,Google,1,0,0
+eb4e211b-286a-4c68-915e-5cda7fc71cd5,146,34,Jorong Lauk,Indonesia,InternetExplorer,Google,1,0,0
+369477af-2a18-41b3-a1fd-0807e49b53e8,151,40,Darungan Lor,Indonesia,InternetExplorer,Google,1,0,0
+b7d70276-d1ab-471b-af2d-b7a55416b90f,13,30,Rawaglagah,Indonesia,Firefox,Google,1,0,0
+9bfc38c5-081e-4d79-ae11-94a73df6fce7,34,27,Gemuruh,Indonesia,Firefox,Google,0,0,0
+a200ac08-baac-4b8c-8498-a2bba78d4870,50,40,Kute,Indonesia,Firefox,Google,0,0,0
+9bcb340a-e4bb-4814-ae4d-82c179227d94,119,39,Cikijing,Indonesia,Firefox,Google,1,0,0
+70fbf7bb-374e-498b-a8a9-4126de220f16,488,45,Sumberkrajan,Indonesia,Firefox,Google,0,0,0
+5a38afae-cc94-4d0e-97f5-4f2341e49416,536,36,Karoya,Indonesia,Firefox,Google,0,0,0
+bc5bfc2b-c998-41f4-ac2f-6224441f8973,38,52,Gesing,Indonesia,Firefox,Google,0,0,0
+2486a528-98c4-4684-b75e-3af8569c8c09,530,48,Bogorame,Indonesia,Firefox,Google,0,0,0
+db70d99b-59df-4c49-8912-5a7e682c9aa4,35,27,Cigedang,Indonesia,Chrome,Google,1,0,0
+26101d06-aec4-461d-8b68-190808c4bf36,36,25,Sukaraja,Indonesia,Chrome,Google,1,0,0
+05fa8f8a-205d-45f6-8b60-b9f24ea159b2,44,28,Tamianglayang,Indonesia,Chrome,Google,1,0,0
+4dd61b6e-9c82-4861-976c-22850332c8e6,162,45,Polos,Indonesia,Chrome,Google,0,0,0
+41f56d68-b129-4716-9279-523d7014a7e5,515,44,Adil Makmur,Indonesia,Chrome,Google,1,0,0
+c1352fe6-f293-4a7c-b9ef-7b12b48e2c52,518,30,Banjar Budakeling,Indonesia,Chrome,Google,0,0,0
+f1edbd7b-9af4-47cc-9a8b-52289354b957,225,34,Patenongan,Indonesia,Chrome,Google,0,0,0
+53f88d9c-3147-47d9-9232-79e27734c8f4,318,42,Kebloran,Indonesia,Chrome,Google,1,0,0
+a548d63b-c331-48cd-a5c1-2027a20bd2b3,506,38,Oehaunu,Indonesia,Chrome,Google,0,0,0
+18963b5f-c347-4d0b-af26-285bb24d5d3d,335,35,Kedung,Indonesia,Chrome,Google,1,0,0
+6eead2b2-6c48-431b-b404-d6de55220a8c,248,25,Cinangsih Satu,Indonesia,Chrome,Google,1,0,0
+1788405e-0721-4412-accb-57686344e43e,102,26,Tiro,Indonesia,Chrome,Google,1,0,0
+b3c10f9a-5f44-4e9e-8580-60868d51a4ff,403,38,Salinggara,Indonesia,Chrome,Google,1,0,0
+58911cfa-4529-4ad2-a8f5-94541366e772,97,55,Kuala Terengganu,Malaysia,Firefox,Google,1,0,0
+d8082515-3923-412f-b21e-e7238c7602e0,348,32,Kuala Lumpur,Malaysia,Firefox,Google,1,0,0
+ecb200c8-824f-4195-b95b-2ec42a1c95fe,510,37,Petaling Jaya,Malaysia,Firefox,Google,0,0,0
+64ee6e29-deeb-43d2-95fc-3ab1a3876ecf,217,39,Alor Star,Malaysia,Firefox,Google,0,0,0
+7a609f39-6841-4384-9d34-741c99ea3736,487,38,Alor Setar,Malaysia,Chrome,Google,0,0,0
+57538856-5a7e-48a9-aaba-471625052deb,233,24,Dubreuil,Mauritius,Chrome,Google,1,0,0
+95b965a6-c2f9-4550-8da9-beeb4a4216ea,262,30,Lazaro Cardenas,Mexico,Firefox,Google,1,0,0
+319c0d0a-fb87-4b07-bb35-f37c85985d17,401,33,Manuel Cavazos Lerma,Mexico,Firefox,Google,0,0,0
+979b4a82-c864-468a-8ffc-68b296abbdf5,234,28,Las Flores,Mexico,Chrome,Google,0,0,0
+4a9e5246-71d5-4913-9c52-e4455bc37539,84,40,San Francisco,Mexico,InternetExplorer,Google,0,0,0
+801044dd-cd42-4e0e-877a-899713a747a7,167,39,Santa Cruz,Mexico,InternetExplorer,Google,1,0,0
+759f9ae7-8af0-4a7a-82cb-cfb89f466456,6,34,San Jose,Mexico,InternetExplorer,Google,1,0,0
+be7d39e8-fb2c-4df5-8d47-5273cb33eff7,313,25,Miguel Hidalgo,Mexico,Chrome,Google,1,0,0
+a1887384-a8b3-4aad-bdae-b9fd97786b16,176,40,La Loma,Mexico,Chrome,Google,1,0,0
+ea598d5b-91c2-4004-8a56-fb314aa6de7a,154,29,El Rosario,Mexico,Chrome,Google,0,0,0
+3b93dbb8-4eef-4d09-88be-1f1955759f86,196,48,Emiliano Zapata,Mexico,Chrome,Google,0,0,0
+3e385e9d-80d3-4b97-90e3-b8c666ac3f40,483,30,San Lorenzo,Mexico,Chrome,Google,0,0,0
+7b063744-0521-4da5-8148-c72ab42cf87f,230,27,Tānk,Pakistan,Chrome,Google,0,0,0
+445a9336-b123-436d-a4a7-3913e04e86c9,273,39,Thatta,Pakistan,Chrome,Google,0,0,0
+8e12b717-583d-44f2-a072-8874554bb461,285,44,Tānk,Pakistan,Chrome,Google,0,0,0
+ed300f46-9f35-4e16-9fe5-19130b6b86c8,196,26,Thatta,Pakistan,Chrome,Google,1,0,0
+1d22d4d8-f9f4-4747-85f2-92190c030ffb,357,40,Hāsilpur,Pakistan,Chrome,Google,0,0,0
+bdfc6905-b39e-4012-855a-b2f1b529a265,366,46,Garhi Khairo,Pakistan,InternetExplorer,Google,1,0,0
+297f6352-1141-48ad-9f5c-6c70a0e25493,67,24,Salaverry,Peru,InternetExplorer,Google,1,0,0
+90f31911-ab95-4fe8-a8e0-e4b77643e82c,316,20,Aricapampa,Peru,InternetExplorer,Google,0,0,0
+77ec41ac-4f65-42d4-9672-7ea346d80ea6,31,20,Tournavista,Peru,Firefox,Google,1,0,0
+d23056a6-623e-49db-86d2-f1007fa0df0f,280,32,Simbal,Peru,Firefox,Google,1,0,0
+5d1c7c6c-6ba6-4040-a0f1-53ba7785a0aa,48,22,Laramate,Peru,Firefox,Google,0,0,0
+dedfdbcc-b1c9-4ef8-93dd-6fe5d5261a34,101,26,Cusco,Peru,Firefox,Google,0,0,0
+5cca3c10-2f14-46da-b74e-12f763c92ce8,393,20,Pujocucho,Peru,Firefox,Google,0,0,0
+0ae856ad-cf90-41a8-b18f-01015409b8bd,459,28,Huayana,Peru,Firefox,Google,0,0,0
+575eb653-32a1-4cbb-8ad0-7950b87307b7,298,38,Cahuac,Peru,Chrome,Google,0,0,0
+6846eb07-7049-45be-a87c-d707b8bcbfc0,430,45,Huayllati,Peru,Chrome,Google,0,0,0
+b64c0d6f-b8e3-4a27-9b8b-f9fc2961dd5a,146,32,El Parco District,Peru,Chrome,Google,1,0,0
+d867f28d-e0ec-46db-a1f7-04be506cd840,386,49,Hongos,Peru,Chrome,Google,1,0,0
+ad3544fa-df7e-4a6d-951e-60c293cce0e3,218,33,Laramate,Peru,Chrome,Google,0,0,0
+5ecc67fb-0ffe-4ddd-9946-10e4301b9ba2,463,39,San Pablo,Peru,InternetExplorer,Google,0,0,0
+3c19c309-bfcc-410e-aca6-4e958691816b,243,29,San Marcos,Peru,InternetExplorer,Google,1,0,0
+43d83093-fac4-484e-a01d-42c7f8985c38,324,33,Huanza,Peru,InternetExplorer,Google,1,0,0
+28ddfd47-ba3c-43db-a721-0cd522ca016d,59,24,Iñapari,Peru,InternetExplorer,Google,0,0,0
+44f01ce1-9bf7-4992-8464-4f66cd58b82d,222,54,Masma,Peru,InternetExplorer,Google,0,0,0
+cb954759-3c2a-45f5-a2cd-7c34c1582b58,373,23,Ferreñafe,Peru,Chrome,Google,1,0,0
+2bf059a5-5c0d-4804-9ff3-1fdcfd179c4a,309,42,Mamara,Peru,Chrome,Google,0,0,0
+83ab80c9-4b5e-41bb-ada9-d94acf3f11f9,49,24,Yungay,Peru,Chrome,Google,0,0,0
+5c060e68-4ca4-4fd3-96ed-5bec83ba8491,74,48,Minien East,Philippines,Firefox,Google,0,0,0
+c366e4c6-d435-48e4-9fd4-cf8f44a95517,46,47,Can-asujan,Philippines,Firefox,Google,1,0,0
+39aa764d-bd31-4787-b1fe-5990d6150aaf,502,30,Pawing,Philippines,Firefox,Google,0,0,0
+3e8ba06e-c4f0-48e6-a2ca-a2e72f928c7a,16,27,Lavezares,Philippines,Firefox,Google,1,0,0
+69633322-5113-4880-a28e-2d8e0453a76d,237,37,Hermosa,Philippines,Chrome,Google,0,0,0
+42b15c43-1038-43b6-9c66-a09d1d8bcfb7,428,49,Kimanuit,Philippines,Chrome,Google,0,0,0
+f8f5e0ce-23c1-4d7b-920b-79b7eff59d7e,85,29,Tayabo,Philippines,Chrome,Google,1,0,0
+555fcae2-df34-4b7c-8a41-9f2069c7172a,284,42,Tagapul-an,Philippines,Chrome,Google,0,0,0
+2725b2d4-fe1b-4792-9c7a-c6e52e08bf0e,478,24,San Juan,Philippines,Chrome,Google,0,0,0
+7899c7b6-0372-4ba4-b248-3f8322c5273c,63,32,Lawa-an,Philippines,InternetExplorer,Google,1,0,0
+cec113b9-844c-4313-a91b-f13eb3f4b0b0,421,40,Aras-asan,Philippines,InternetExplorer,Google,1,0,0
+e5319fff-2ff4-49ab-bc3d-97e74af574a0,378,49,Rizal,Philippines,InternetExplorer,Google,0,0,0
+d509c86c-4829-44c2-91ac-d0ffa467376b,35,51,Malusay,Philippines,InternetExplorer,Google,0,0,0
+93b4ab0a-fd0f-4067-a848-a2aec03bda37,103,19,San Mariano,Philippines,InternetExplorer,Google,0,0,0
+2dfce047-d5bd-47b2-8950-d8e216efdb2e,77,29,Lisewo Malborskie,Poland,Firefox,Google,0,0,0
+9cb693bd-d4d4-4395-9c06-f2dd8138fa36,306,49,Dziergowice,Poland,Firefox,Google,1,0,0
+32053e07-c79d-49bd-a418-9c3df0b2db17,451,51,Bełsznica,Poland,Firefox,Google,0,0,0
+e2775914-f863-487c-9a17-d43d15460198,26,46,Czarna Dąbrówka,Poland,Firefox,Google,0,0,0
+685d6ef3-6cb8-4bf6-96ec-c08d4a2256b4,20,28,Łęczyce,Poland,Firefox,Google,1,0,0
+7be47f01-061f-4698-85d1-6349eedac2d3,478,53,Leńcze,Poland,Firefox,Google,1,0,0
+3a0c031e-375f-4dae-adad-c0a01a7613cb,485,19,Uście Gorlickie,Poland,Firefox,Google,1,0,0
+5903bbc7-09dc-4996-9761-67e40769f0fc,315,32,Jedlińsk,Poland,Firefox,Google,1,0,0
+c56b9f1c-6628-46bb-838b-87edafb229e3,284,49,Grabica,Poland,InternetExplorer,Google,0,0,0
+f3e6a5fb-6e97-49d1-9bee-30f34063f288,182,22,Brzozów,Poland,InternetExplorer,Google,0,0,0
+ceeb45ed-cb00-45d6-a37c-91290002ee9e,104,36,Trąbki,Poland,InternetExplorer,Google,0,0,0
+5b996d49-1eab-456d-8e2b-beaf1cd89fa7,349,42,Bralin,Poland,Chrome,Google,0,0,0
+6f817a54-9464-4ea1-a9d4-9a51f5f018d5,220,42,Jeżów,Poland,Chrome,Google,0,0,0
+fc89355c-0461-47ae-927a-43976f9b98e1,123,43,Lututów,Poland,Chrome,Google,1,0,0
+f79a4393-0f1c-4bd5-bf74-6d8404384e16,239,29,Nowe Grocholice,Poland,Chrome,Google,1,0,0
+922c5e14-1d32-4ef1-a24d-1d8fa3b2ba45,308,20,Iwonicz-Zdrój,Poland,Chrome,Google,0,0,0
+9cd65e94-2f31-4024-b81b-6c7b2f9efaf6,414,33,Filipowice,Poland,Chrome,Google,1,0,0
+21ddf002-42ae-4e99-864d-5921ed3205b1,234,29,Chociwel,Poland,Chrome,Google,1,0,0
+eeff63ce-c2c6-466a-aaa9-9a7b9e9271b8,381,26,Sieniawa,Poland,Chrome,Google,0,0,0
+e125c5f0-db83-4508-8934-55d26a48aa4b,507,47,Boguszów-Gorce,Poland,Chrome,Google,1,0,0
+8e029225-62db-4bf4-babb-ad08075b8ec9,90,54,Leśnica,Poland,Chrome,Google,0,0,0
+c674c391-98c5-492d-88de-364f7dcf95bf,506,42,Baligród,Poland,Chrome,Google,1,0,0
+feccbc95-4489-4986-a7be-b948c7089411,28,33,Nowa Sarzyna,Poland,Chrome,Google,0,0,0
+e99f1a66-9d0d-498a-b3c5-48baa2ad95aa,88,35,Słońsk,Poland,Chrome,Google,0,0,0
+7b15ce90-fa73-49b9-a86f-5be8ee34a67d,396,51,Ujazd,Poland,Chrome,Google,1,0,0
+62aa4c79-d447-40c8-bd87-e3c944d46bc6,364,37,Namysłów,Poland,Chrome,Google,1,0,0
+9c95a684-da0a-495c-a036-d56641186263,76,19,Łaszczów,Poland,Chrome,Google,0,0,0
+c8756bcf-7fff-4e41-863a-aa42ced71e93,6,45,Lipnica Wielka,Poland,Chrome,Google,1,0,0
+7ca70e0d-2df4-4c9f-b341-37062420cfb4,242,54,Rączna,Poland,InternetExplorer,Google,1,0,0
+dfa885a9-6cb4-4608-84c8-8150584cd015,42,55,Wielka Wieś,Poland,InternetExplorer,Google,1,0,0
+cdb4c35d-84de-4f63-8a72-fd26bfa2ba8a,137,33,Dębno,Poland,InternetExplorer,Google,0,0,0
+e1a82c32-d909-468a-9fe0-99a3312a865c,415,28,Smętowo Graniczne,Poland,InternetExplorer,Google,1,0,0
+4fe8455d-ae14-4a4f-b968-23c453698eb7,229,39,Trzebieszów,Poland,InternetExplorer,Google,0,0,0
+cf3a321c-cd7e-4403-8eed-61fd5a58a919,58,44,Puck,Poland,Chrome,Google,1,0,0
+aa3bff2c-a893-4bf7-88bd-fd1ce2623051,144,37,Chełmża,Poland,Chrome,Google,0,0,0
+a8411edd-3b3a-4e07-93bf-9077fe0edb0f,490,30,Ponikiew,Poland,Chrome,Google,0,0,0
+151b36d7-ec36-4d08-bda1-16d2792e2430,328,45,Bozkow,Poland,Chrome,Google,1,0,0
+953cb99a-7baa-4a03-aba6-a37489f5554f,437,36,Farinheiras,Portugal,Firefox,Google,0,0,0
+d309c6a7-1069-46ab-a979-23a6d56e29ab,526,36,Vilarinho,Portugal,Firefox,Google,1,0,0
+926c69f7-57ad-4974-a30e-7bf493349590,545,28,Casais Brancos,Portugal,Firefox,Google,1,0,0
+1e17641c-141d-4455-ab82-ae5316cb8f4e,100,54,Mundão,Portugal,Firefox,Google,0,0,0
+6b00613c-8f72-4c95-a06c-6491ebfba3f6,441,48,Cotovia,Portugal,Firefox,Google,1,0,0
+d5162b83-8868-4e74-ad08-f264766906fc,463,38,Pousada,Portugal,Chrome,Google,1,0,0
+288aa1bf-8872-45be-a603-a3797d58aee3,179,26,São João dos Montes,Portugal,Chrome,Google,0,0,0
+962ab6b7-20bb-4026-b7d4-b91ff3cfb045,38,22,Ariz,Portugal,Chrome,Google,1,0,0
+a608a522-8d84-4c5b-9236-f0dc66e00f30,449,39,Torre do Pinhão,Portugal,Chrome,Google,1,0,0
+3d115308-fa36-4e82-93ff-20599e0ed05d,147,34,Carvalhais,Portugal,InternetExplorer,Google,0,0,0
+5df8755a-0982-42de-9a63-d4856c468355,226,49,Baraçais,Portugal,InternetExplorer,Google,0,0,0
+f15d82b5-5887-43f3-997f-82dd03f14480,165,42,Vila Franca das Naves,Portugal,InternetExplorer,Google,1,0,0
+cd1580ad-d2a2-4bdc-b5cf-e719ee5b5931,355,43,Sangalhos,Portugal,InternetExplorer,Google,0,0,0
+e2a6add1-f2e9-4ffa-864e-602f81328e99,420,49,Pexiligais,Portugal,InternetExplorer,Google,1,0,0
+db70f71c-8e4e-4860-8b5a-c56f3e4ec4ea,311,22,Castro Daire,Portugal,InternetExplorer,Google,1,0,0
+ef3d1091-63ec-4cb6-b9ad-9a27935c1efc,544,32,Carregueira,Portugal,InternetExplorer,Google,0,0,0
+01e84a8c-775d-4d3a-9ea9-45ab01de5c5f,314,50,Sobreira,Portugal,InternetExplorer,Google,0,0,0
+98f0d5db-a1a5-45da-a3bc-56e2efec2497,7,23,Alcainça,Portugal,InternetExplorer,Google,0,0,0
+7dc9c602-1059-4275-8a6d-dac0fc066033,87,33,Barrosas,Portugal,Chrome,Google,1,0,0
+8268a015-239c-484a-ae66-dcba04b5d596,291,34,Prainha de Baixo,Portugal,Chrome,Google,0,0,0
+aae0081f-1f02-46dc-a39c-2e9f8df1c7e8,305,45,Seixal,Portugal,Chrome,Google,1,0,0
+a97c884d-fb9a-403b-a468-505559fd2837,196,24,Cavadas,Portugal,Chrome,Google,1,0,0
+78cec736-a72b-491d-83b4-9d665c769796,325,55,Miragaia,Portugal,Chrome,Google,0,0,0
+20db2407-7fc7-44d5-b1e5-b2bf1f9a89f6,40,51,Vale Boeiro,Portugal,Chrome,Google,0,0,0
+2a084914-3a9f-497c-b491-583088114999,378,36,São Pedro de Trafaria,Portugal,Chrome,Google,0,0,0
+78dabd39-b0b5-4c9a-aa8c-12d0adfa3d1b,18,36,Khuzhir,Russia,Firefox,Google,1,0,0
+c735e842-d8d9-40df-bbd7-b4a3f047bbcb,272,37,Suna,Russia,Firefox,Google,1,0,0
+3997e79e-40cd-48c5-bc20-683a9d046711,33,52,Akademicheskoe,Russia,Firefox,Google,0,0,0
+eea17d48-1ca3-4aa2-9c9e-703cae0224f3,400,31,Volodarsk,Russia,Firefox,Google,1,0,0
+10f7c447-0cd9-48e8-9521-3ee16f953038,198,48,Vsevolozhsk,Russia,Firefox,Google,1,0,0
+3f4852d2-12b1-45a2-a62a-23d67a0f9c01,240,38,Khvalovo,Russia,Firefox,Google,1,0,0
+431e4fe0-bb0c-4410-b42b-68808bd57cf1,29,48,Novonikol’sk,Russia,Firefox,Google,1,0,0
+de5ca4e1-a0f2-4bc3-bed4-a0ba0125eda8,507,31,Ferapontovo,Russia,Firefox,Google,1,0,0
+872b33a3-bab5-48fc-acfd-2e1292652ecc,330,48,Kozhevnikovo,Russia,Firefox,Google,0,0,0
+ad98696b-6526-45ab-a8b1-ea99ea846862,495,25,Isakly,Russia,InternetExplorer,Google,0,0,0
+4295fcc4-1715-4724-a4fa-55fdc1bb8e62,529,37,Sovetsk,Russia,InternetExplorer,Google,1,0,0
+ed4d7810-3b58-4acc-baee-a8c03a351f92,351,19,Pitkyaranta,Russia,InternetExplorer,Google,0,0,0
+1ec8d6b8-3b2a-4e29-af87-8e7c81499c3e,302,40,Temizhbekskaya,Russia,InternetExplorer,Google,1,0,0
+10f56cb9-8eae-4618-9937-68f6a2115d59,344,23,Pushkino,Russia,InternetExplorer,Google,1,0,0
+ad0434e6-2faf-4410-8809-7aba7389cd71,67,22,Bershet’,Russia,InternetExplorer,Google,1,0,0
+c082d41e-7ffa-41ee-9628-4dfdfc451b51,286,48,Mesker-Yurt,Russia,InternetExplorer,Google,0,0,0
+02267f96-848a-464b-9c8f-e40b6addcb16,188,54,Velikovechnoye,Russia,InternetExplorer,Google,1,0,0
+90ef2426-4c8f-4265-afcd-549f9f624afd,254,29,Gorno-Altaysk,Russia,InternetExplorer,Google,0,0,0
+fefcf148-a613-495d-be91-7a417c1a6ff1,343,31,Maloyaroslavets,Russia,InternetExplorer,Google,0,0,0
+6e33b02c-1c20-42b7-8ddb-db731b1b72bd,427,25,Rublëvo,Russia,InternetExplorer,Google,0,0,0
+9c7c428a-4d0d-4861-8230-a273cbd36c17,479,52,Krasnyy Yar,Russia,InternetExplorer,Google,0,0,0
+d3552ba3-1448-461d-aa37-33d4449cfeac,151,47,Priozërsk,Russia,InternetExplorer,Google,1,0,0
+0d5e780e-3cf7-4273-8c2c-70a4aaf7d189,9,29,Kemlya,Russia,InternetExplorer,Google,0,0,0
+66db4476-a044-4b6d-a787-530fd3939ff5,285,46,Ust’-Kalmanka,Russia,InternetExplorer,Google,0,0,0
+4d200a5d-bb45-487b-9072-a1f297f0c047,186,55,Dostoyevka,Russia,InternetExplorer,Google,0,0,0
+21a00c53-1265-4d66-acd7-d022223fe4d2,397,26,Strelka,Russia,InternetExplorer,Google,0,0,0
+39cd07d8-4554-4a6f-99ef-61ab04e9771c,243,33,Tomari,Russia,Firefox,Google,0,0,0
+3730ebd5-9676-4d61-a0d5-c226f2bb9326,390,32,Zarechnyy,Russia,Firefox,Google,1,0,0
+a7da145a-47db-421f-b2f0-71eabd9cfd0e,26,54,Verkhozim,Russia,Firefox,Google,0,0,0
+cb48c086-cc4c-41d5-a5ee-c9d8b111caa2,78,38,Dolgoderevenskoye,Russia,Firefox,Google,0,0,0
+15be9c56-f2e0-4660-bd71-32fb6964b4e1,330,25,Troitsk,Russia,Firefox,Google,0,0,0
+e03fc4bd-a98f-432a-9a4f-9420805a0b5c,82,19,Irbit,Russia,Firefox,Google,0,0,0
+880940c2-d0fc-4db6-a48d-81553701847e,537,50,Shigony,Russia,Firefox,Google,1,0,0
+553d7f42-9504-4f97-970e-67fba1e12556,61,28,Pesochnoye,Russia,Firefox,Google,1,0,0
+06926ee4-ece2-42fa-aa20-e038b5d3da0e,171,36,Vorontsovka,Russia,Firefox,Google,0,0,0
+c57e303b-277b-4482-bc04-3f09c0edc792,124,28,Tëplaya Gora,Russia,Firefox,Google,1,0,0
+fd8d1b6f-d8db-4f1f-bce6-0c0e017d3691,139,53,Neftegorsk,Russia,Firefox,Google,1,0,0
+f5d43b7e-1622-4010-be76-0c83e1cc6579,402,44,Turan,Russia,Firefox,Google,1,0,0
+4ba00ad5-3794-4b22-855d-7bef6638b22b,154,29,Energetik,Russia,Firefox,Google,1,0,0
+3301b2be-fbb4-4e07-b39a-5b54a37c5382,402,31,Manzherok,Russia,Firefox,Google,0,0,0
+a0ed57d3-ce18-4b22-9871-c8277e8b9fc1,76,41,Novosheshminsk,Russia,Firefox,Google,1,0,0
+df34de57-d212-4b5a-97a2-78146fe0c30e,249,23,Tol’yatti,Russia,Firefox,Google,0,0,0
+72f59139-13f8-4a75-8824-c5fc2b40999c,115,27,Ufa,Russia,Firefox,Google,0,0,0
+80dc9071-2bfc-459f-bf6b-75d8763812d1,27,28,Snegiri,Russia,Firefox,Google,1,0,0
+869f9427-c7a2-4259-9799-5e56efeff187,386,51,Kedrovoye,Russia,Firefox,Google,0,0,0
+5df0ecb3-e3ff-46bd-bfa9-d6ce0d0ef5b9,97,43,Saint Petersburg,Russia,Firefox,Google,1,0,0
+9c150e62-dec8-4aa4-84a4-125339aae99d,403,44,Otrado-Kubanskoye,Russia,Firefox,Google,1,0,0
+e387067c-62bc-49fe-87df-88de9236f8ca,161,24,Opechenskiy Posad,Russia,Firefox,Google,1,0,0
+19b66510-197b-4573-bcf8-4ca43726714a,338,47,Vysokogornyy,Russia,Firefox,Google,0,0,0
+dc2fb6ac-6ffd-4c28-8ae2-761f5ed82038,244,54,Glushkovo,Russia,Firefox,Google,0,0,0
+6f96acc8-a733-4559-b1c9-f39790ef3ee3,181,20,Kuzovatovo,Russia,Firefox,Google,1,0,0
+65078ce4-c001-4e32-85d7-a8677559d97c,343,40,Chirkey,Russia,Firefox,Google,0,0,0
+99a8c8a8-f4b7-4e95-8dd6-6c54b214e1e8,419,25,Soloneshnoye,Russia,Firefox,Google,1,0,0
+865ea04c-5411-4708-819c-71c83cb90ebf,279,22,Sovetsk,Russia,Chrome,Google,0,0,0
+06d631d2-d2c2-44e2-80fe-154a34050d2c,194,46,Zheleznogorsk,Russia,Chrome,Google,0,0,0
+a1e22eab-a5ea-4b7f-9173-af9232ad0406,324,39,Sukpak,Russia,Chrome,Google,0,0,0
+94ee53f6-e5db-436b-9c21-430315f8d64d,297,36,Krasnyye Chetai,Russia,Chrome,Google,0,0,0
+abfb91c1-6570-47e8-a64a-c7f317cd5d6b,519,34,Tuymazy,Russia,Chrome,Google,0,0,0
+e96512f7-c4ca-4944-9654-82ede4d679fe,106,31,Zlatoust,Russia,Chrome,Google,1,0,0
+66977247-9c5e-4246-bbfb-98577e84898b,287,31,Solnechnoye,Russia,Chrome,Google,0,0,0
+6a99bde4-6842-4846-9dbd-c86ed96d727e,105,35,Novaya Igirma,Russia,Chrome,Google,1,0,0
+0a9f8505-b505-4e2a-9833-66000903b7ee,357,29,Beringovskiy,Russia,Chrome,Google,0,0,0
+6f2929f5-d31b-46a9-99da-18cf247eac41,157,24,Maromitsa,Russia,Chrome,Google,1,0,0
+a4c9070d-3000-4fca-91e4-d1b1c67c4de1,447,33,Velizh,Russia,Chrome,Google,0,0,0
+e61d7ede-725c-4338-a56b-f08c5333f8c5,285,36,Makarov,Russia,Chrome,Google,1,0,0
+adc2f7e8-0163-474e-8379-5ef26e8c6a27,146,40,Kurchaloy,Russia,Chrome,Google,1,0,0
+60fb2eb8-2e97-4012-af96-fd1145893fba,368,22,Klyuchi,Russia,Chrome,Google,0,0,0
+c80f6feb-93d9-4e27-a79c-2d0f620fcf59,238,35,Zhireken,Russia,Chrome,Google,1,0,0
+282cd9c0-f384-4efd-9c5a-162026a21ea3,348,34,Neuzina,Serbia,Chrome,Google,0,0,0
+0fb03c93-8b5a-4c0a-aa85-1d94fd7039ac,265,41,Aranđelovac,Serbia,Chrome,Google,1,0,0
+3ea726cf-d84c-41a2-b8f9-affd2e512340,351,36,Lazarevac,Serbia,Chrome,Google,1,0,0
+4a818d49-501f-40e0-bc67-78d3eb40d863,135,46,Čoka,Serbia,Chrome,Google,0,0,0
+2069a796-3b12-4296-af68-06ac3f022312,300,20,Ćićevac,Serbia,Chrome,Google,0,0,0
+f4a96238-d4fe-4094-a7cf-c63f1a2ce035,467,38,Novi Slankamen,Serbia,Chrome,Google,1,0,0
+20c77413-a89e-4bf6-bdf2-1bbbf99227a5,36,38,Bratislava,Slovakia,Chrome,Google,1,0,0
+bf167049-ba00-4c16-83b0-fc0bfd66b4c0,14,20,Bratislava,Slovakia,Chrome,Google,0,0,0
+60895c35-de56-491b-aaef-54aef10f0bbf,110,52,Poljčane,Slovenia,Chrome,Google,0,0,0
+6b18b41b-8c37-48c3-a559-9fbfaa4bc90d,474,52,Muldersdriseloop,South Africa,Firefox,Google,1,0,0
+d9b3c59a-fe81-414b-8255-cdb10212cccd,135,48,Barkly East,South Africa,InternetExplorer,Google,0,0,0
+dd98c448-0223-46de-bad9-75b4da8564e6,54,20,Fort Beaufort,South Africa,InternetExplorer,Google,0,0,0
+e04eb250-dbbd-4dd3-9bd7-1bb608a9f05d,334,28,Seogeom-ri,South Korea,Chrome,Google,0,0,0
+2919bc73-9931-47ac-a075-c10aacae8e25,494,26,Wŏnju,South Korea,Chrome,Google,0,0,0
+8bb7feed-179f-426f-abaf-82bce29f32d3,12,25,Naju,South Korea,Chrome,Google,0,0,0
+2d37268c-ba99-4017-ac17-bd1928d74523,82,45,Bo Kluea,Thailand,Firefox,Google,1,0,0
+589c4abe-39cb-4cc1-9e31-cf3c8ed9623b,91,51,Mae Hi,Thailand,Firefox,Google,0,0,0
+1bc4b72d-af0f-46bc-8134-6fbc0f0718c4,535,53,Nong Khae,Thailand,Firefox,Google,0,0,0
+5285aa3f-5f03-4eb8-a46d-5ba211c991d3,367,36,Pak Phanang,Thailand,Firefox,Google,0,0,0
+4a78d67e-c1cb-4f09-afaa-2397188f3839,56,33,Trat,Thailand,Firefox,Google,0,0,0
+1b8a4917-6126-4945-b420-8184aa1a467c,417,29,Nong Bua,Thailand,Chrome,Google,0,0,0
+cee88631-461f-4264-b115-cdadf1acb5b3,384,35,Bang Lamung,Thailand,InternetExplorer,Google,0,0,0
+f69966eb-a008-484e-bb49-409edf4b2e68,475,43,Khlong Khuean,Thailand,InternetExplorer,Google,1,0,0
+469c58bd-bbe5-471a-90ab-4fd890839662,118,27,Chum Phae,Thailand,InternetExplorer,Google,1,0,0
+b1f391c0-0c36-4083-8a9d-5181c2247a5d,206,35,Lat Yao,Thailand,InternetExplorer,Google,0,0,0
+7bcb75b0-6d77-45c2-bdbb-77abcc25d9c2,544,29,Wang Nam Yen,Thailand,InternetExplorer,Google,0,0,0
+5df4b5b7-bdf8-4d64-9faf-af23b2450f15,206,45,Borodino,Ukraine,InternetExplorer,Google,0,0,0
+b2d54fb5-df05-4eb6-970e-4e2fefe2bf72,346,44,Karlivka,Ukraine,InternetExplorer,Google,1,0,0
+3600d0a5-a0cc-4a57-8b49-17bcf0aa7660,421,32,Nova Kakhovka,Ukraine,Firefox,Google,1,0,0
+dd190dfd-2c2c-4027-8e76-f682e7c5dfd6,295,23,Nedryhayliv,Ukraine,Firefox,Google,1,0,0
+580a3f6e-4092-4094-85da-c8058d4c2b6d,522,22,Yasynuvata,Ukraine,Firefox,Google,1,0,0
+8bc28b25-baff-42d5-888f-79eaff5c7478,237,31,Manyava,Ukraine,Firefox,Google,0,0,0
+b2f19c73-a295-4e19-b82d-bb935c1c6d4d,344,36,Turka,Ukraine,Firefox,Google,1,0,0
+b0154dc7-3455-4e24-90b4-45598a6b9a4f,99,25,Petrikov,Ukraine,Chrome,Google,0,0,0
+b200ade6-093d-4236-8d01-0cbecdc18156,220,43,Vapnyarka,Ukraine,Chrome,Google,0,0,0
+4ebe647a-21d9-4523-a381-88240ba0ceac,226,47,Vin’kivtsi,Ukraine,Chrome,Google,1,0,0
+d2b7ed09-ace1-4266-9108-bc6add7c77e4,453,35,Vendychany,Ukraine,Chrome,Google,1,0,0
+1a3096e3-ba14-4c11-8a8a-779562c15899,226,24,Shklo,Ukraine,Chrome,Google,0,0,0
+fad5becc-fa68-4c31-9cbf-bd16047325e4,82,54,Preobrazhenka,Ukraine,Chrome,Google,1,0,0
+dc03dada-965d-486f-8778-29b71ea90d6f,495,23,London,United Kingdom,Chrome,Google,0,0,0
+4edc4068-bd1b-4b82-9d42-6d0253ce6864,112,25,Nottingham,United Kingdom,Chrome,Google,0,0,0
+d2bd6bc1-d0f7-46ae-abbc-0b1238b612ab,331,32,Nottingham,United Kingdom,Chrome,Google,1,0,0
+6c221541-cd3c-435d-b78d-6fdecb079a0a,424,26,Nottingham,United Kingdom,Chrome,Google,1,0,0
+0166a831-fe4e-426f-b55e-25b95660da38,67,49,Chelsea,United Kingdom,Chrome,Google,0,0,0
+b2298e77-5282-4199-9aa2-1bc78accc5b3,296,44,Chelsea,United Kingdom,Chrome,Google,0,0,0
+8a2e5ee2-45da-452f-b087-a3dcc0f483b1,270,48,New England,United Kingdom,Chrome,Google,1,0,0
+740a049c-ece0-4f9b-ae7c-937e2b75f744,133,35,South Wales,United Kingdom,Chrome,Google,1,0,0
+db4a298f-a785-4b69-9906-bfec62c1a7e2,116,30,Stapleford,United Kingdom,Chrome,Google,0,0,0
+cf415b2e-630f-4745-8881-0ca0adc3dc3b,452,29,Belfast,United Kingdom,Chrome,Google,0,0,0
+bee088d6-a6cc-4187-a3d2-dd75500a3f1c,309,32,Lexington,United States,Chrome,Bing,0,0,0
+327af889-82c4-4783-8077-36d7fb072ea5,315,32,San Fransisco,United States,Chrome,Bing,1,0,0
+0717a574-2da9-4a2a-86e7-d42059287f40,33,31,San Fransisco,United States,Chrome,Bing,0,0,0
+81a6501d-ff58-4e15-9402-68433ebe5b9f,455,48,Chicago,United States,Chrome,Bing,1,0,0
+62203db6-6be6-49de-992e-f1b1e614a306,441,49,San Diego,United States,InternetExplorer,Bing,0,0,0
+c095f84f-4351-408b-8d4c-20a719042239,417,49,Arlington,United States,InternetExplorer,Google,1,0,0
+967e0dff-0c87-4678-820d-57caef146d75,500,25,Suwanee,United States,InternetExplorer,Google,0,0,0
+875e4134-8857-40dc-a5a0-263528a39b7a,13,31,New Orleans,United States,InternetExplorer,Google,1,0,0
+5788f2d7-176c-4a7e-bfa3-e8dbc91d156e,368,39,Boston,United States,InternetExplorer,Google,0,0,0
+dc4b264c-3680-4d2b-8acf-3de329629b61,46,26,Philadelphia,United States,InternetExplorer,Google,0,0,0
+423f7d2b-05f3-4c9e-9166-23749e43d703,199,23,San Jose,United States,InternetExplorer,Google,0,0,0
+ac7c2254-24dc-471e-8851-1769f17bf269,271,55,Atlanta,United States,InternetExplorer,Google,0,0,0
+6e25c671-4d87-4e3e-8d5c-4a8374a5634a,510,50,Atlanta,United States,InternetExplorer,Google,0,0,0
+d2a0f9a4-ec6a-4309-9e30-e511a359d165,405,28,Atlanta,United States,InternetExplorer,Google,0,0,0
+c6fc2c6e-6d5d-4f00-8d97-3f157dd90644,373,20,New York,United States,InternetExplorer,Google,0,0,0
+3e27cf89-aa14-420e-97bc-255e2fa0eecd,29,38,New York,United States,InternetExplorer,Google,1,0,0
+6e404850-e5d2-4d17-9004-fd604075d98a,243,48,New York,United States,InternetExplorer,Google,0,0,0
+602c07d7-b0c6-4df8-9816-3a3bc4911473,27,41,New Jersey,United States,InternetExplorer,Google,0,0,0
+b0a91f53-4a54-4057-abe3-d42ab20ae0a1,156,38,New Jersey,United States,InternetExplorer,Google,1,0,0
+24efecab-d04b-4e58-8cf6-264a145a6472,402,22,New Jersey,United States,InternetExplorer,Google,0,0,0
+68050eb3-7e7d-4bd7-9899-85567684de54,187,46,Burlington,United States,InternetExplorer,Google,0,0,0
+60526bc8-729e-4c68-83a3-11ea90bc4156,469,27,Oxford,United States,InternetExplorer,Google,1,0,0
+55aa8e49-c758-4242-b6aa-35fb24455098,484,36,Phoenix,United States,InternetExplorer,Google,0,0,0
+41546247-4627-4cf1-8eb3-d1f032b2effe,238,52,Phoenix,United States,InternetExplorer,Google,1,0,0
+b00e7013-3acb-4de0-a453-532455dc1dd7,344,42,Dallas,United States,InternetExplorer,Google,0,0,0
+990928ec-15dd-43af-a11f-7712c6f3e410,293,49,Dallas,United States,InternetExplorer,Google,0,0,0
+64596c52-3a26-401c-af87-01853e50d22d,499,49,Dallas,United States,InternetExplorer,Google,1,0,0
+1209eea8-b472-4c9a-b695-f975fdb4537e,395,20,San Antonio,United States,InternetExplorer,Google,1,0,0
+9b8510a4-ebf1-4bce-9ba3-21fb61cba042,517,53,San Antonio,United States,InternetExplorer,Google,1,0,0
+3a0fa4e8-d9a3-4ac9-b360-6da62ac23fec,51,35,Delaware,United States,InternetExplorer,Google,1,0,0
+8092f7a0-f2b7-4d30-96e2-0a22d76d37c9,263,46,Miami,United States,InternetExplorer,Google,0,0,0
+74fa24d8-1fb5-4580-a614-66641129f48e,332,30,Washington,United States,InternetExplorer,Google,1,0,0
+cc920506-a091-4728-aa62-417aba8db2fb,392,34,Wichita,United States,InternetExplorer,Google,0,0,0
+03dc04e7-71cd-4864-bcf9-17ca200a85bc,356,33,Dallas,United States,InternetExplorer,Google,0,0,0
+9dbc7cf0-c713-4159-b3a0-111a9f01bfb1,129,32,Springfield,United States,InternetExplorer,Google,1,0,0
+3657d710-82ea-4b7e-8d36-7c6efc42a605,133,40,Bradenton,United States,InternetExplorer,Google,1,0,0
+48a05864-d43f-4582-8d9e-5ddcd47a3106,73,28,Springfield,United States,InternetExplorer,Google,1,0,0
+6e2b64d9-64a1-4d59-8faa-67e59e4f5c9f,511,38,San Diego,United States,InternetExplorer,Google,0,0,0
+42b06b4f-39f9-4e77-a17e-5f158aaf1ae4,377,34,New Jersey,United States,InternetExplorer,Google,0,0,0
+bffc2dc6-ef91-4bc2-9474-30a492b6c868,12,42,Louisville,United States,InternetExplorer,Google,0,0,0
+e6a55907-18c1-4a7b-b18d-e0e53d3f751d,544,52,Charolotter,United States,InternetExplorer,Google,0,0,0
+a4c4b049-3f25-40fc-99bd-2a3a0a60baed,343,38,Akron,United States,InternetExplorer,Google,0,0,0
+7822a1b1-b765-4ba0-8c35-1140c92a50dd,368,19,Columbus,United States,InternetExplorer,Google,0,0,0
+77737716-7c3b-4849-812a-5fecb3df271b,94,28,Macon,United States,InternetExplorer,Google,0,0,0
+7e411526-b9b7-4482-809f-ab66d6211667,22,34,Buford,United States,InternetExplorer,Google,1,0,0
+f3991574-cbc9-4185-9c5a-7bd8a4c0f42c,153,34,Los Angeles,United States,InternetExplorer,Google,0,0,0
+395e07b5-977a-4ab2-a963-b795515c9347,152,25,Los Angeles,United States,InternetExplorer,Google,0,0,0
+13ad2577-0158-42bf-94d3-4944839d1d37,413,36,Philadelphia,United States,InternetExplorer,Google,1,0,0
+8070d76c-88b8-4008-bf3e-049d71ea698b,269,31,Puerto Rico,United States,InternetExplorer,Google,0,0,0
+a96a3f3b-3cbf-4ab6-852c-37687ed63eac,199,55,Atlanta,United States,InternetExplorer,Google,0,0,0
+4252dba9-3995-4f03-9806-904bdfca3c56,104,39,Cincinatti,United States,Firefox,Google,1,0,0
+72b1af6b-9709-4494-af78-a9e0f8059960,501,28,Denver,United States,Firefox,Google,1,0,0
+56f30c71-eb7b-4b7e-ba71-f659564cf2f8,177,36,Austin,United States,Firefox,Google,1,0,0
+83de6dcb-d6f4-4552-a5f2-4d27b19a8f8b,54,41,New Jersey,United States,Firefox,Google,0,0,0
+833238b0-d5c9-4225-a650-9edffa1eadd6,163,32,Chelsea,United States,Firefox,Google,0,0,0
+e7295000-2295-4f87-9e80-326f2d218a0a,489,50,Chelsea,United States,Firefox,Google,0,0,0
+7b17bca5-d8ba-4651-a79d-0f46c22d78e0,218,41,Chelsea,United States,Firefox,Google,1,0,0
+6abca18a-c1f2-481e-af19-5df2328d9b24,88,21,Chelsea,United States,Firefox,Google,1,0,0
+947c078c-96e5-4e7a-8cb2-8daae2b03ad2,492,51,Tennessee,United States,Firefox,Google,0,0,0
+76f8c99a-3e70-4690-b9ae-b22d0b445e2c,508,35,Houton,United States,Firefox,Google,0,0,0
+cd417e42-675d-4726-bc8e-6392a0b18588,413,24,Houton,United States,Firefox,Google,1,0,0
+70177b25-9dd8-400e-b0dc-2e3abd624136,319,47,Dallas,United States,Firefox,Google,0,0,0
+80b4eaec-9cba-44c0-877c-0508bcfa3762,62,48,Dallas,United States,Firefox,Google,1,0,0
+5bc4a1b8-4f38-4c2e-a353-728fdb24f644,185,23,Austin,United States,Firefox,Google,0,0,0
+47094571-8784-4344-aaa2-43b63bbca2a0,411,20,Austin,United States,Firefox,Google,0,0,0
+bcb331fa-3317-4efb-b7b1-062224230428,147,41,San Antonio,United States,Firefox,Google,1,0,0
+37620da6-1144-4a52-a6a2-2a5201cfced5,213,34,San Antonio,United States,Firefox,Google,0,0,0
+9a72079d-c813-4ccd-b513-c72d8f355e3d,372,28,New England,United States,Chrome,Google,1,0,0
+dc2ec7da-008e-4be5-be01-2e48b61bacfc,291,38,Summer Hill,United States,Chrome,Google,0,0,0
+f9494817-2e02-459d-b81c-dcd89389f1d4,121,51,Willmington,United States,Chrome,Google,0,0,0
+4c8220d8-f61c-480f-9c05-266176b9db79,66,30,Jacksonville,United States,Chrome,Google,0,0,0
+03b8d585-ee7a-4106-8dca-ca3c399cb682,405,41,Jacksonville,United States,Chrome,Google,1,0,0
+ad64fa7e-e7bd-4d05-8b12-d72aafcb6abd,437,37,Orlando,United States,Chrome,Google,0,0,0
+a56ed72f-6606-482e-a582-4c386d292fcd,532,32,Tampa,United States,Chrome,Google,1,0,0
+b8d0b3f2-550b-4752-b7f2-626aac968808,193,32,Tampa,United States,Chrome,Google,1,0,0
+97c2bc0a-84ae-4e5e-97b9-847b1fd06a5f,41,21,New York,United States,Chrome,Google,0,0,0
+b3330ef7-5795-4286-b71a-858482232a6b,382,47,Detroit,United States,Chrome,Google,0,0,0
+ac37831e-3aaa-4982-9f8e-11263c58bc88,506,46,Honolulu,United States,Chrome,Google,0,0,0
+d52a7810-b3a9-4e39-bfeb-3d58fe00d4fb,211,26,Portland,United States,Chrome,Google,1,0,0
+b803f851-4ef5-49da-9e51-206cbc5f4609,74,28,Denver,United States,Chrome,Google,0,0,0
+276336a0-28ac-4404-b4aa-0680992b3d12,223,24,Sacramento,United States,Chrome,Google,0,0,0
+ef9d46bb-0c17-4052-9f15-a60db330933c,198,45,Arlington,United States,Chrome,Google,1,0,0
+8f487621-70be-49c7-8ff9-38760d32885d,344,39,Springfield,United States,Chrome,Google,0,0,0
+46b20a7a-a13e-42de-8501-5b4d105dbd14,311,19,Newark,United States,Chrome,Google,1,0,0
+e03ae1c7-ce53-4d21-82fd-60bf287ef44f,46,30,Đồng Mỏ,Vietnam,Chrome,Google,1,0,0
+736c68d5-da1d-458c-95f2-187d710d252f,347,23,Thị Trấn Yên Ninh,Vietnam,Chrome,Google,0,0,0
+4ae7373a-0b6c-455a-9780-33a3b718d813,530,49,Kỳ Anh,Vietnam,Chrome,Google,1,0,0
+ee275648-9b6d-494f-b785-a54142e0367c,193,53,Hương Sơn,Vietnam,Chrome,Google,1,0,0
+2322b521-7d4d-4142-aacf-0f30baf46ab1,517,31,Long Hồ,Vietnam,Chrome,Google,1,0,0
+5d190328-8bb4-4454-a296-2add360550fc,66,47,Thị Trấn Yên Thế,Vietnam,Chrome,Google,0,0,0
+65957334-4d08-47a2-93f2-db4f4d8d6933,257,51,Bằng Lũng,Vietnam,Chrome,Google,1,0,0
+e867c905-dd81-49ca-a0eb-b39283d53177,38,25,Las Varas,Argentina,Chrome,Facebook,0,1,25
+b5dc2f83-8ba0-45fb-810b-b22048d7c416,217,25,Nueve de Julio,Argentina,Chrome,Instagram,1,1,55
+64c984c9-82cc-44fa-b1bf-c29c6b403254,16,26,Guaíba,Brazil,Chrome,Bing,0,1,25
+d26c2c6c-bbb4-4b4c-8708-19bb22768f59,58,32,Santana,Brazil,InternetExplorer,Facebook,1,1,25
+bfc89b4f-1ce6-4327-89b8-8a8d123a45e2,519,25,Artur Nogueira,Brazil,Chrome,Twitter,1,1,25
+9301bac5-2def-4dce-9bdd-547f1b4fa870,466,34,Piuí,Brazil,Chrome,Twitter,1,1,25
+92f9b434-ee3b-429d-be1e-fe95b585074d,10,35,Raymond,Canada,Chrome,Bing,0,1,90
+62509c42-ea28-4b5c-bf64-f329f71903d7,467,37,Jonquière,Canada,Chrome,Bing,1,1,25
+75e8ad3d-8815-4a35-b007-f374d99cde38,151,27,Toronto,Canada,Chrome,Facebook,1,1,25
+1423c215-353a-4560-88b1-384c0566d2a3,122,42,Toronto,Canada,Firefox,Twitter,1,1,25
+ce083962-7565-4668-94d6-b42b5c1029b0,75,31,Toronto,Canada,Chrome,Twitter,1,1,25
+0647ddf3-6f9b-4268-a3fd-a5f09e741d7a,449,21,North Battleford,Canada,Chrome,Instagram,1,1,25
+6b99b889-1d67-46f7-9d70-d5f2d98bd6b8,86,54,Beijing,China,Chrome,Bing,0,1,25
+3f976ab6-098e-4cf4-9a5d-704e86dda9b7,361,34,Beijing,China,Chrome,Twitter,1,1,25
+f45b3f3b-82cc-4db0-9617-4ec129058933,327,36,Beijing,China,Firefox,Instagram,0,1,25
+be320012-6e02-41c0-861f-25825a7867ac,380,41,Sophia Antipolis,France,Chrome,Bing,0,1,55
+74484d94-ebee-4507-8105-4b10ac58edf1,306,34,Toulouse,France,Chrome,Google,0,1,25
+09379600-b605-40a2-80a5-559c8f3e6994,161,32,Caen,France,Chrome,Bing,1,1,25
+1cebe624-fa04-41f2-a9ae-a0c063e651c0,410,41,Montélimar,France,Chrome,Facebook,1,1,25
+4606d111-4e29-4969-a64c-c235c6656bbd,91,22,Roissy Charles-de-Gaulle,France,Chrome,Facebook,1,1,25
+0056813a-8c04-4039-a317-6bc1efe6be06,242,25,Chartres,France,Chrome,Instagram,1,1,25
+4e92cdc0-e0f8-46e7-8599-620b347b8b46,461,27,Panaitólion,Greece,Chrome,Facebook,1,1,25
+a688ce3d-2714-4583-9fa5-b16a8a44937a,359,29,Gýtheio,Greece,Chrome,Instagram,0,1,90
+2035f7bb-1a13-4d9b-9539-a4507bae921f,449,31,Thessaloníki,Greece,Firefox,Instagram,0,1,25
+157c93dc-0dbd-4545-b22c-b9ebe0cfc29f,298,34,Chennai,India,InternetExplorer,Bing,1,1,25
+93931ddb-04ec-460b-aab5-8b53d4abbac5,371,21,Mumbai,India,Chrome,Bing,1,1,25
+bb306663-b202-41f3-a941-f22f7e0e810f,258,18,Bangaluru,India,Chrome,Google,0,1,25
+6f19a099-5209-4661-b675-e6ff1c76afbc,115,19,Bangaluru,India,Firefox,Google,0,1,25
+c27f44b1-d7ab-4ada-8e60-71804c15f1d8,332,22,Chennai,India,Chrome,Facebook,1,1,25
+919af31c-f227-4bdc-b34c-daef19330528,18,26,Chennai,India,Chrome,Facebook,0,1,25
+38dbe5aa-8547-4f4f-a5a4-3d94082b5448,139,31,Bangaluru,India,Chrome,Twitter,0,1,25
+5a2d49af-e373-475d-b05f-0b9807621083,78,26,Bangaluru,India,Firefox,Twitter,0,1,25
+9dbf2683-2a3b-454e-b3e1-9a807e189c3c,446,27,Bangaluru,India,Chrome,Instagram,1,1,25
+506e8faa-6f68-4416-8045-dfd877f15ea8,129,31,Salawu,Indonesia,Firefox,Instagram,0,1,25
+8ba91298-cd02-4ab7-97c4-5985987e7f0a,291,32,Kota Kinabalu,Malaysia,Chrome,Google,0,1,25
+57625066-03c7-4417-afb7-b7c540cd1796,421,56,Mahébourg,Mauritius,Chrome,Instagram,0,1,25
+62968bec-9adb-48f8-b539-c2630e718c16,15,42,Benito Juarez,Mexico,Firefox,Facebook,1,1,25
+5f1cdddc-9136-4f5f-9ce6-404be62063fd,107,51,Samboan,Philippines,Chrome,Bing,1,1,90
+7cd7e343-93bb-4b32-8666-32196b7aed2c,49,44,Toong,Philippines,Firefox,Facebook,1,1,25
+66a88e27-e591-4722-a21b-68d329cf0cba,38,21,Gibgos,Philippines,Firefox,Facebook,1,1,25
+b73ad818-cf5f-4bc9-8ff2-b0162ab2e236,368,24,Świlcza,Poland,Firefox,Google,1,1,25
+39f0530d-82bd-43c4-bc90-a3c2e28887ed,494,31,Perovo,Russia,Chrome,Bing,0,1,25
+4aec6ae7-a2c0-47d6-8195-7ebf06af6c27,33,36,Yoshkar-Ola,Russia,Chrome,Instagram,1,1,25
+08ef1a0b-bd20-40da-88d7-28e14b7a7ad9,27,34,Volksrust,South Africa,Firefox,Bing,0,1,25
+8ccfd92a-88e1-4bc4-bda3-080a1060b15e,415,37,Williston,South Africa,InternetExplorer,Facebook,1,1,25
+dd895831-de1f-439d-a32c-c1f6abb6c2e1,515,25,Yasothon,Thailand,Chrome,Google,0,1,25
+84ea700b-e552-4dc0-bf19-0dfa1de01735,199,33,Phu Khiao,Thailand,Chrome,Instagram,1,1,55
+60af53fb-b774-41ee-a225-f2fe6032403c,423,29,Kharkiv,Ukraine,InternetExplorer,Bing,0,1,25
+5619938c-8fcc-482a-89f6-67aaba8abf26,71,31,Machester ,United Kingdom,Firefox,Facebook,1,1,55
+d6d2e7ae-38c0-4148-b0ae-07fca042980b,381,34,London,United Kingdom,Chrome,Facebook,1,1,25
+00c6c11c-b2fa-4a1b-89f5-7ad9893f530b,19,29,London,United Kingdom,Firefox,Facebook,1,1,25
+e52eaa9e-2dcc-4aa0-984f-c64f01c186bf,244,21,London,United Kingdom,Chrome,Facebook,0,1,25
+6ea0578d-320c-4889-a553-80ad43156ccd,417,65,London,United Kingdom,Chrome,Twitter,0,1,25
+3bb61334-d49d-4be4-a367-066f836e66f6,275,37,London,United Kingdom,InternetExplorer,Instagram,1,1,90
+4126fd70-9cba-49c9-b2d1-b3d26dfdd07a,142,23,London,United Kingdom,InternetExplorer,Instagram,1,1,90
+9511f6d4-4bb2-4495-a8e5-aea043094a5c,463,43,London,United Kingdom,Firefox,Instagram,1,1,55
+c4b2967d-e748-4659-9b77-592f138a8f54,177,49,Bristol,United Kingdom,InternetExplorer,Google,0,1,25
+06c38c1d-a85c-45b0-a2f8-0706e5cf0e20,166,35,Stapleford,United Kingdom,InternetExplorer,Google,0,1,25
+bb9b175e-afb7-46a2-b83b-cb61a3329e9e,328,32,London,United Kingdom,InternetExplorer,Google,1,1,25
+814faefe-80fd-475a-a8c5-04971d48e0b9,146,38,Stapleford,United Kingdom,InternetExplorer,Google,1,1,55
+945f9e82-81e2-45c7-8e9e-84e70bde2b52,179,23,Stapleford,United Kingdom,InternetExplorer,Google,0,1,55
+0e28dc83-e873-43a0-993e-f7c3bf1c1dff,106,41,Stapleford,United Kingdom,InternetExplorer,Google,0,1,55
+9d0e95ca-a3b4-48ae-8ab3-84f9fed9658d,303,21,Stapleford,United Kingdom,InternetExplorer,Google,1,1,55
+cd818b31-b194-457c-b601-606f75cfac61,112,30,Stapleford,United Kingdom,InternetExplorer,Google,0,1,55
+bfced142-cc5a-4e5a-8121-0a48c5a8fc5c,136,20,Burmingham,United Kingdom,InternetExplorer,Google,0,1,55
+68d215c3-6d14-4934-a3b5-e04808bb30bc,43,28,Burmingham,United Kingdom,InternetExplorer,Google,1,1,55
+8aa1f74c-4b2a-4ce4-8621-4d664d05d544,372,31,Burmingham,United Kingdom,InternetExplorer,Google,0,1,90
+902cd976-45ec-4ef4-b3cb-4cac6742aecb,93,34,London,United Kingdom,InternetExplorer,Google,0,1,90
+8986ac0c-2544-4b12-91c5-c94751b74943,162,23,London,United Kingdom,InternetExplorer,Google,0,1,90
+23376327-89a4-4a56-b8b4-af0446a3c552,108,25,London,United Kingdom,InternetExplorer,Google,0,1,90
+ac43c309-3b46-4aad-9342-ac5648343199,444,26,London,United Kingdom,InternetExplorer,Google,0,1,25
+478ebbea-b3ff-45a9-8319-f33b23b6c0e9,375,67,Machester ,United Kingdom,Firefox,Google,0,1,25
+3630fb38-84cc-410c-a869-99e8c8d3ecc3,50,21,Bristol,United Kingdom,Firefox,Google,0,1,25
+6c6cb61e-3995-4a17-99b6-4e31fbbf6dae,479,19,London,United Kingdom,Firefox,Google,1,1,55
+aacfa63b-8308-4f70-afa4-4874c77176f4,204,28,London,United Kingdom,Chrome,Google,0,1,55
+1b849c12-9df6-4a1b-8839-fe434ec966ee,208,41,London,United Kingdom,Chrome,Google,1,1,55
+6f8ce634-7dbe-4607-b87a-06827b17fb19,411,39,London,United Kingdom,Chrome,Google,0,1,55
+ffe6eb8c-b9d3-491c-a55b-bf0d66c7e2e2,4,27,San Jose,United States,InternetExplorer,Bing,1,1,25
+cb262ccf-437e-4e94-9b82-6b31bf0e21fb,93,21,New Jersey,United States,InternetExplorer,Bing,1,1,25
+df431ca4-7926-46ce-8d17-4aee0b8b1057,429,19,New Jersey,United States,InternetExplorer,Bing,1,1,25
+2114e238-2ac8-41e7-b706-b2093787ddff,139,31,Tallahassee,United States,Chrome,Google,1,1,25
+b9398434-ac37-4719-806d-7f185975d05c,427,33,San Fransisco,United States,InternetExplorer,Google,1,1,25
+d9c7466d-9fe9-46b6-aec3-3cc837284cd8,173,34,Atlanta,United States,InternetExplorer,Google,1,1,25
+cf670c99-bcd7-4538-a418-798ead4ca5dd,385,37,Atlanta,United States,InternetExplorer,Google,1,1,25
+3306b43c-5dc8-495d-8aaf-979de51269ef,70,39,Atlanta,United States,Firefox,Google,1,1,25
+a8c62a24-15c5-4b4f-b769-cd441a210dfc,346,41,Farmington,United States,InternetExplorer,Google,0,1,90
+c9e81398-716b-4dac-99b1-024e37be6183,232,23,London,United States,InternetExplorer,Google,1,1,55
+7fc83c63-284f-48fa-be94-a30d69864838,144,35,San Fransisco,United States,InternetExplorer,Google,1,1,55
+0ca90512-0391-4523-8f6d-fa06c9a81465,537,39,Los Angeles,United States,InternetExplorer,Google,0,1,55
+a21176c0-442b-47ae-bb95-567a54d10abd,11,38,New Jersey,United States,InternetExplorer,Facebook,1,1,90
+99208942-64d0-4426-b233-a50b818f145f,451,36,New York,United States,InternetExplorer,Facebook,1,1,25
+3f5db0a8-a435-45f4-8e89-e5397a6537b4,318,30,Austin,United States,InternetExplorer,Twitter,1,1,25
+a01d37a7-a040-41cc-9e02-39290bbf38be,100,24,Austin,United States,InternetExplorer,Twitter,0,1,25
+0c17503e-1e6d-4903-b903-91a57a6e4245,360,39,Austin,United States,InternetExplorer,Twitter,1,1,25
+fe5e448a-c151-4d3b-aff8-d86b4b001821,294,33,Austin,United States,Chrome,Twitter,1,1,25
+2f10621a-39bd-4473-ae63-71ee81c56ef2,432,36,Dallas,United States,Chrome,Instagram,1,1,25
+be61c52e-8621-49cb-9538-9e4c1a3dc36b,144,37,Los Angeles,United States,InternetExplorer,Instagram,1,1,90
+0d5294b9-54b0-4f67-854c-9b59956f3a60,223,32,Hilton Head,United States,InternetExplorer,Instagram,1,1,55
+c6d9f753-a24c-4f2c-864d-5bc18f351661,46,29,Connecticut,United States,Chrome,Instagram,0,1,55
+aeb4cba2-6685-49a0-bd6e-4f3e5be6aa2b,119,23,New York,United States,Chrome,Instagram,1,1,90
+3a26d244-dc0a-4539-8b1a-42dfd9332631,511,39,New York,United States,Firefox,Instagram,0,1,90
+d8a517eb-932f-4320-b9af-5a533d5e9254,340,43,Quán Hàu,Vietnam,Chrome,Facebook,1,1,25
+1ea58c42-0854-42fe-beb7-552adc6da009,411,45,Hưng Nguyên,Vietnam,Chrome,Twitter,1,1,25
+d2b681bc-da70-4073-bea1-56903be292f0,531,49,Quán Hàu,Vietnam,Chrome,Instagram,0,1,90
