@@ -1,0 +1,23 @@
+digraph G {
+  graph [rankdir=LR, bgcolor="white", pad="0.15", nodesep="0.45", ranksep="0.7", splines=ortho]
+  node [shape=box, style="rounded", fontname="Arial", fontsize=12, color="black", penwidth=1.2, margin="0.16,0.10"]
+  edge [color="black", penwidth=1.0, arrowsize=0.55, arrowhead=normal, fontname="Arial", fontsize=9]
+  user [label="User / Browser\nmessages + feedback"]
+  gateway [label="AAF gateway\n/api/faq/chat\ndeterministic routing"]
+  context [label="Trusted application\nmetadata / FAQ context"]
+  model [label="Qwen2.5-7B\nvia Ollama\nresponse generation"]
+  answer [label="Natural-language\nanswer"]
+  feedback [label="Chatbot feedback\nrecord"]
+  golden [label="Golden examples\n(auth.db)"]
+  distill [label="Nightly critique\n(aaf_distill.py)"]
+  prompt [label="Persistent prompt\naddendum"]
+  context -> gateway
+  user -> gateway
+  gateway -> model
+  model -> answer
+  answer -> feedback
+  feedback -> golden
+  golden -> distill
+  distill -> prompt
+  prompt -> gateway
+}

@@ -1,0 +1,19 @@
+digraph G {
+  graph [rankdir=LR, bgcolor="white", pad="0.15", nodesep="0.45", ranksep="0.7", splines=ortho]
+  node [shape=box, style="rounded", fontname="Arial", fontsize=12, color="black", penwidth=1.2, margin="0.15,0.10"]
+  edge [color="black", penwidth=1.0, arrowsize=0.55, arrowhead=normal, fontname="Arial", fontsize=9]
+  goal [label="User goal"]
+  router [label="Planner / router"]
+  gate [label="Policy + risk gate\nallowed tool? authorized?"]
+  schema [label="Schema-valid tool call"]
+  exec [label="Tool adapter / executor"]
+  result [label="Tool-result validation\nprovenance + state checks"]
+  final [label="Confirm / deny /\nescalate / final answer"]
+  mcp [label="Optional MCP interoperability\ndiscovery | tools | resources", style="rounded,dashed"]
+  loop [label="Bounded retry / iteration\nmaximum attempts"]
+  goal -> router -> gate -> schema -> exec -> result -> final
+  mcp -> router [style=dashed]
+  mcp -> exec [style=dashed]
+  result -> loop [dir=both]
+  loop -> router [style=dashed]
+}

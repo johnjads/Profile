@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "AAF Assistant: Reliability-Centered LLMOps Research Software"
+authors:
+  - family-names: "Ang"
+    given-names: "Johnson"
+    orcid: "0009-0005-9149-1742"
+date-released: 2026-09-18
+version: 0.1.0
+license: MIT
+repository-code: "https://github.com/johnjads/Profile/tree/master/AAF"
+repository-artifact: "<ARTIFACT_DOI> or not yet minted>"
+message: "If any, for future contributors please cite the JOSS article and the exact archived software release."

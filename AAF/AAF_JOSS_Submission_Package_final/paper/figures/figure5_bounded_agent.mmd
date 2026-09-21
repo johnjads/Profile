@@ -1,0 +1,11 @@
+flowchart LR
+    U[User goal] --> P[Planner / router]
+    P --> G[Policy / risk gate]
+    G --> S[Schema-valid call]
+    S --> T[Tool adapter / executor]
+    T --> V[Tool-result validation]
+    V --> C[Confirm / deny / escalate]
+    C --> F[Final answer / abstention]
+    F -->|bounded retry| P
+    MCP[MCP interoperability layer] -. discovery / auth / context .-> P
+    MCP -. resources .-> T

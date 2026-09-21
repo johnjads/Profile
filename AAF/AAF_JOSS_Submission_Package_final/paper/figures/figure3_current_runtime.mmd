@@ -1,0 +1,9 @@
+flowchart LR
+    U[Browser / client\nmessages / feedback] --> G[AAF gateway\n/api/faq/chat\ndeterministic routing]
+    C[Trusted application\nmetadata / FAQ context] --> G
+    G --> M[Qwen2.5-7B\nvia Ollama]
+    M --> A[Natural-language\nanswer]
+    A --> F[Chatbot feedback\nrecord]
+    F --> N[Nightly critique\naaf_distill.py]
+    N --> P[Persistent prompt addendum\nevolved_chatbot_addendum.txt]
+    P --> G

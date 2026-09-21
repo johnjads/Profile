@@ -1,0 +1,18 @@
+digraph G {
+  graph [rankdir=LR, bgcolor="white", pad="0.15", nodesep="0.5", ranksep="0.6", splines=ortho]
+  node [shape=box, style="rounded", fontname="Arial", fontsize=12, color="black", penwidth=1.2, margin="0.15,0.10"]
+  edge [color="black", penwidth=1.0, arrowsize=0.55, arrowhead=normal, fontname="Arial", fontsize=9]
+  prod [label="Production interaction"]
+  capture [label="Feedback + trace\ncapture"]
+  critique [label="Teacher-LLM\ncritique"]
+  candidate [label="Candidate prompt /\nrule artifact"]
+  gate [label="Offline regression +\nsafety gate"]
+  promote [label="Versioned promotion /\nrollback"]
+  prod -> capture -> critique -> candidate -> gate -> promote
+  fail [label="Failure slice /\ncorrection queue"]
+  sanit [label="Sanitization + policy\nchecks"]
+  holdout [label="Held-out reliability suite"]
+  capture -> fail -> sanit -> candidate
+  gate -> holdout [dir=both, arrowhead=normal]
+  promote -> prod [style=dashed]
+}
