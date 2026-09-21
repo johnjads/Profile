@@ -1,6 +1,0 @@
-case_id,query,expected_route,expected_app,answered,correct
-faq-001,how do I use lecturer ai,faq,lecturer,1,1
-faq-002,show me the marking agent,evidence,,1,1
-faq-003,how do I reset my password,evidence,,1,1
-faq-004,what can IDE AI do,faq,ide,1,1
-faq-005,send an email to support,evidence,,1,1
